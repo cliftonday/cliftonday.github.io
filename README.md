@@ -30,9 +30,14 @@
 #### Clifton Town Hall, Chapel Rd
 
 | Handcrafted Beer by 2 Silos Brewery | 10a-5p |
-| :----------------------- | :---: |
-| Select Wines by The Wine Attic | 10a-5p |
-| Bands TODO | 11:00a |
+| :---------------------------------- | :---: |
+| Select Wines by The Wine Attic      | 10a-5p |
+| Caitlin Schneiderman                | 10a |
+| Brass Band of Northern Virginia     | 11a |
+| Karen Jonas                         | 12p |
+| Low Water Bridge Band               | 1:30p |
+| Hard Swimmin' Fish                  | 3p |
+| Randy Thompson Band                 | 4:30p |
 
 ### Live Music - Ayre Square Acoustic Stage
 #### Main St & Chapel Rd
@@ -96,11 +101,7 @@
 
 ### Virginia Railway Express - Masks Required
 
-Track crossing is not permitted while train is in Clifton.
-
-To board train, wait on Caboose side (South) of the tracks well before the train arrives and the crossing guards close
-
-Last Trains: To Burke: 4:44p, To Manassas: 5:33p
+Track crossing is not permitted while train is in Clifton.  To board train, wait on Caboose side (South) of the tracks well before the train arrives and the crossing guards close.
 
 | To Burke | To Manassas |
 | :------: | :---------: |
@@ -110,6 +111,8 @@ Last Trains: To Burke: 4:44p, To Manassas: 5:33p
 |  1:42p   |  2:30p |
 |  3:14p   |  4:00p |
 |  4:44p   |  5:33p |
+
+Last Trains: To Burke: 4:44p, To Manassas: 5:33p
 
 ### Services
 
