@@ -12,18 +12,22 @@
 
 | Main Street & Trummer's Parking Lot | 9a-5p |
 | :----------------------- | :---: |
+| | |
 
 ### Vintage & Antiques
 
 | Main St & Chapel Rd, Caboose Parking Lot | 9a-5p |
 | :----------------------- | :---: |
+| | |
 
 ### Town Market & Commercial Vendors
 
 | Chapel Road, Clifton Shoppes’ Parking Lot | 9a-5p |
 | :----------------------- | :---: |
+| | |
 
 ### Live Music - Beer & Wine Garden
+#### Clifton Town Hall, Chapel Rd
 
 | Handcrafted Beer by 2 Silos Brewery | 10a-5p |
 | :----------------------- | :---: |
@@ -33,8 +37,9 @@
 ### Live Music - Ayre Square Acoustic Stage
 #### Main St & Chapel Rd
 
-| Sarah Swanner (local favorite) | 10a-2p | 
+| Sarah Swanner (local favorite) | 10a-2p |
 | :----------------------- | :---: |
+| | |
 
 ### KidFest – Children’s Activities
 #### Main & Chapel St (behind Clifton Baptist Church) Clifton Town Park
@@ -51,14 +56,16 @@
 #### CBA Barn, Main St (North of Tracks)
 ##### Children 4–12 under 100 lbs. $5 suggested donation
 
-| Pony Rides (2 sessions) | 10a-12p & 1p-3p |
-| :----------------------- | :---: |
+| Pony Rides Session 1 | 10a-12p |
+| :------------------- | :---: |
+| Pony Rides Session 2 | 1p-3p |
 
 ### Historical Activities
 #### Main Street (South End)
 
 | Primitive Baptist Church | 9a-5p |
 | :----------------------- | :---: |
+| | |
 
 ### Food & Snacks
 
@@ -88,8 +95,8 @@
 | The Wine Attic (wine tastings) | 11a-5p |
 
 ### Virginia Railway Express - Masks Required
- 
-Track crossing is not permitted while train is in Clifton. 
+
+Track crossing is not permitted while train is in Clifton.
 
 To board train, wait on Caboose side (South) of the tracks well before the train arrives and the crossing guards close
 
