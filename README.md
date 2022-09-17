@@ -1,5 +1,6 @@
-# Clifton Day 2022 Times Guide (Sunday, October 9, 2022)
-## 54th Clifton Day Festival
+# Clifton Day 2022 Times Guide
+## Sunday, October 9, 2022
+### 54th Clifton Day Festival
 
 | Festival Hours | 9a-5p |
 | :----------------------- | :---: |
@@ -60,18 +61,20 @@
 | :----------------------- | :---: |
 
 ### Food & Snacks
-| Acacia Lodge #16, N. Main St (breakfast sandwiches, curly hot dogs, coffee) | 7a-5p |
-| :----------------------- | :---: |
-| Boy Scout Troop 1104, at First Baptist Church (lemon sticks, bakery, cotton candy) | 9a-5p |
-| Colonial Kettle Corn, by Caboose (kettle and cheddar corn) | 9a-5:30p |
-| LaToya’s Kitchen, N. Main St (funnel cakes, lemonade) | 9a until sold out |
-| La Gringa, Chapel Rd (empanadas, tenders) | 9:30a-5p |
-| Lions Club, by Railroad (burgers, dogs & sausages) | 9:30a-5p |
-| Little Villagio - Front, Main St (pizza) | 11a-5p |
-| Little Villagio - Back, Villagio parking lot (street tacos) | 11a-5p |
-| Smoke-N-Shine, Chapel Rd (brisket, BBQ, skewers, fries, loaded mac) | 9a-5p |
-| Snowie of Va, Clifton Town Park (shaved ice) | 9a-5p |
-| Zuzu Cuisine, Chapel Rd (Mediterranean & coffee) | 7a-5p |
+
+| Who                  | Where                     | What                                         |  When             |
+| :------------------- | :---------                | :------------------------------------------- | :---------------: |
+| Acacia Lodge #16     | N. Main St                | breakfast sandwiches, curly hot dogs, coffee | 7a-5p             |
+| Boy Scout Troop 1104 | at First Baptist Church   | lemon sticks, bakery, cotton candy           | 9a-5p             |
+| Colonial Kettle Corn | at Caboose                | kettle and cheddar corn                      | 9a-5:30p          |
+| LaToya’s Kitchen     | N. Main St                | funnel cakes, lemonade                       | 9a until sold out |
+| La Gringa            | Chapel Rd                 | empanadas, tenders                           | 9:30a-5p          |
+| Lions Club           | by Railroad               | burgers, dogs & sausages                     | 9:30a-5p          |
+| Little Villagio      | on Main St                | pizza                                        | 11a-5p            |
+| Little Villagio      | Villagio rear parking lot | street tacos                                 | 11a-5p            |
+| Smoke-N-Shine        | Chapel Rd                 | brisket, BBQ, skewers, fries, loaded mac     | 9a-5p             |
+| Snowie of Va         | Clifton Town Park         | shaved ice                                   | 9a-5p             |
+| Zuzu Cuisine         | Chapel Rd                 | Mediterranean & coffee                       | 7a-5p             |
 
 ### Town Eateries
 
@@ -113,11 +116,13 @@ Last Trains: To Burke: 4:44p, To Manassas: 5:33p
 ### Sponsors
 
  - Virginia Railway Express
- - Norfolk Southern; Peterson Companies
+ - Norfolk Southern
+ - Peterson Companies
  - Ourisman Fairfax Toyota
  - Thomas Custom Builders
  - Villagio Hospitality Group
  - Clifton Exteriors
  - The Centers for Advanced Orthopaedics/Richard Layfield MD
- - Innovation Health; Carrie & Co. Real Estate Group-RE/MAX
+ - Innovation Health
+ - Carrie & Co. Real Estate Group-RE/MAX
  - Professional Tutoring, LLC
