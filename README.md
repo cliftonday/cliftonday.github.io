@@ -41,8 +41,10 @@ Clifton Town Hall, Chapel Rd
 
 Main St & Chapel Rd
 
-| :----------------------------- | :----: |
-| Sarah Swanner (local favorite) | 10a-2p |
+| :----------------------------- | :-----------: |
+| Sarah Swanner                  | 10a-12p |
+| Working Mans Band              | 12:30p-2:30p  |
+| Northern Virginia Brass Band   | 3p         |
 
 ### KidFest – Children’s Activities
 
@@ -77,7 +79,7 @@ Main Street (South End)
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
-| Baja Fresh                  | Chapel Rd                 | Tex-Mex                                      | 9:30-5p           |
+| Baja Fresh                  | Chapel Rd                 | burritos, quesadillas, chips                 | 9:30-5p           |
 | Boy Scout Troop 1104        | at First Baptist Church   | lemon sticks, bakery, cotton candy           | 9a-5p             |
 | Clifton Presbyterian Church | behind Trummer’s          | crab cakes, beef brisket, corn dogs          | 11a-4p            |
 | Colonial Kettle Corn        | at Caboose                | kettle and cheddar corn                      | 9a-5:30p          |
@@ -142,3 +144,4 @@ Last Trains: To Burke: 4:44p, To Manassas: 5:33p
   - Villagio Hospitality Group
   - Virginia Railway Express
 
+Resources: [Main Web Site](https://www.cliftonday.com/), [Event Map](https://www.cliftonday.com/content/map)
