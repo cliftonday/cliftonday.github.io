@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+
+/*
+ * CSS From: https://gist.github.com/killercup/5917178
+ */
+
+html {
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  color: #444;
+  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  font-size: 12px;
+  line-height: 1.7;
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+  background: #fefefe;
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0b0080;
+}
+
+a:hover {
+  color: #06e;
+}
+
+a:active {
+  color: #faa700;
+}
+
+a:focus {
+  outline: thin dotted;
+}
+
+*::-moz-selection {
+  background: rgba(255, 255, 0, 0.3);
+  color: #000;
+}
+
+*::selection {
+  background: rgba(255, 255, 0, 0.3);
+  color: #000;
+}
+
+a::-moz-selection {
+  background: rgba(255, 255, 0, 0.3);
+  color: #0645ad;
+}
+
+a::selection {
+  background: rgba(255, 255, 0, 0.3);
+  color: #0645ad;
+}
+
+p {
+  margin: 1em 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #111;
+  line-height: 125%;
+  margin-top: 2em;
+  font-weight: normal;
+}
+
+h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 0.9em;
+}
+
+blockquote {
+  color: #666666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #EEE solid;
+}
+
+hr {
+  display: block;
+  height: 2px;
+  border: 0;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #eee;
+  margin: 1em 0;
+  padding: 0;
+}
+
+pre, code, kbd, samp {
+  color: #000;
+  font-family: monospace, monospace;
+  _font-family: 'courier new', monospace;
+  font-size: 0.98em;
+}
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+dfn {
+  font-style: italic;
+}
+
+ins {
+  background: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+ul, ol {
+  margin: 1em 0;
+  padding: 0 0 0 2em;
+}
+
+li p:last-child {
+  margin-bottom: 0;
+}
+
+ul ul, ol ol {
+  margin: .3em 0;
+}
+
+dl {
+  margin-bottom: 1em;
+}
+
+dt {
+  font-weight: bold;
+  margin-bottom: .8em;
+}
+
+dd {
+  margin: 0 0 .8em 2em;
+}
+
+dd:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  vertical-align: middle;
+}
+
+figure {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+figure img {
+  border: none;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-size: 0.8em;
+  font-style: italic;
+  margin: 0 0 .8em;
+}
+
+table {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+table th {
+  padding: .2em 1em;
+  background-color: #eee;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+}
+
+table td {
+  padding: .2em 1em;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  vertical-align: top;
+}
+
+.author {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+@media only screen and (min-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+@media print {
+  * {
+    background: transparent !important;
+    color: black !important;
+    filter: none !important;
+    -ms-filter: none !important;
+  }
+
+  body {
+    font-size: 12pt;
+    max-width: 100%;
+  }
+
+  a, a:visited {
+    text-decoration: underline;
+  }
+
+  hr {
+    height: 1px;
+    border: 0;
+    border-bottom: 1px solid black;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+    content: "";
+  }
+
+  pre, blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  tr, img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  @page :left {
+    margin: 15mm 20mm 15mm 10mm;
+}
+
+  @page :right {
+    margin: 15mm 10mm 15mm 20mm;
+}
+
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2, h3 {
+    page-break-after: avoid;
+  }
+}
+
+  </style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="clifton-day-2022-times-guide">Clifton Day 2022 Times Guide</h1>
+<h2 id="sunday-october-9-2022">Sunday, October 9, 2022</h2>
+<h3 id="th-clifton-day-festival">54th Clifton Day Festival</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Festival Hours</th>
+<th style="text-align: center;">9a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Last Train to Burke (masks required)</td>
+<td style="text-align: center;">4:44p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Last Train to Manassas (masks required)</td>
+<td style="text-align: center;">5:33p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Roads closed to through traffic</td>
+<td style="text-align: center;">8a-6p</td>
+</tr>
+</tbody>
+</table>
+<h3 id="arts-crafts">Arts &amp; Crafts</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Main Street &amp; Trummer's Parking Lot</th>
+<th style="text-align: center;">9a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="vintage-antiques">Vintage &amp; Antiques</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Main St &amp; Chapel Rd, Caboose Parking Lot</th>
+<th style="text-align: center;">9a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="town-market-commercial-vendors">Town Market &amp; Commercial Vendors</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Chapel Road, Clifton Shoppes’ Parking Lot</th>
+<th style="text-align: center;">9a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="live-music---beer-wine-garden">Live Music - Beer &amp; Wine Garden</h3>
+<h4 id="clifton-town-hall-chapel-rd">Clifton Town Hall, Chapel Rd</h4>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Handcrafted Beer by 2 Silos Brewery</th>
+<th style="text-align: center;">10a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Select Wines by The Wine Attic</td>
+<td style="text-align: center;">10a-5p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Caitlin Schneiderman</td>
+<td style="text-align: center;">10a</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Brass Band of Northern Virginia</td>
+<td style="text-align: center;">11a</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Karen Jonas</td>
+<td style="text-align: center;">12p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Low Water Bridge Band</td>
+<td style="text-align: center;">1:30p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hard Swimmin' Fish</td>
+<td style="text-align: center;">3p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Randy Thompson Band</td>
+<td style="text-align: center;">4:30p</td>
+</tr>
+</tbody>
+</table>
+<h3 id="live-music---ayre-square-acoustic-stage">Live Music - Ayre Square Acoustic Stage</h3>
+<h4 id="main-st-chapel-rd">Main St &amp; Chapel Rd</h4>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Sarah Swanner (local favorite)</th>
+<th style="text-align: center;">10a-2p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="kidfest-childrens-activities">KidFest – Children’s Activities</h3>
+<h4 id="main-chapel-st-behind-clifton-baptist-church-clifton-town-park">Main &amp; Chapel St (behind Clifton Baptist Church) Clifton Town Park</h4>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Petting Zoo</th>
+<th style="text-align: center;">9a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Face Painting</td>
+<td style="text-align: center;">9:30a-4p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">T-Ball and Games</td>
+<td style="text-align: center;">9a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dance Party (interactive)</td>
+<td style="text-align: center;">11a-12p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus</td>
+<td style="text-align: center;">12p-12:45p &amp; 2p-2:45p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Learn to Juggle (interactive)</td>
+<td style="text-align: center;">1p-2p</td>
+</tr>
+</tbody>
+</table>
+<h3 id="pony-rides">Pony Rides</h3>
+<h4 id="cba-barn-main-st-north-of-tracks">CBA Barn, Main St (North of Tracks)</h4>
+<h5 id="children-412-under-100-lbs.-5-suggested-donation">Children 4–12 under 100 lbs. $5 suggested donation</h5>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Pony Rides Session 1</th>
+<th style="text-align: center;">10a-12p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Pony Rides Session 2</td>
+<td style="text-align: center;">1p-3p</td>
+</tr>
+</tbody>
+</table>
+<h3 id="historical-activities">Historical Activities</h3>
+<h4 id="main-street-south-end">Main Street (South End)</h4>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Primitive Baptist Church</th>
+<th style="text-align: center;">9a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="food-snacks">Food &amp; Snacks</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Who</th>
+<th style="text-align: left;">Where</th>
+<th style="text-align: left;">What</th>
+<th style="text-align: center;">When</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Acacia Lodge #16</td>
+<td style="text-align: left;">N. Main St</td>
+<td style="text-align: left;">breakfast sandwiches, curly hot dogs, coffee</td>
+<td style="text-align: center;">7a-5p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Boy Scout Troop 1104</td>
+<td style="text-align: left;">at First Baptist Church</td>
+<td style="text-align: left;">lemon sticks, bakery, cotton candy</td>
+<td style="text-align: center;">9a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Colonial Kettle Corn</td>
+<td style="text-align: left;">at Caboose</td>
+<td style="text-align: left;">kettle and cheddar corn</td>
+<td style="text-align: center;">9a-5:30p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">LaToya’s Kitchen</td>
+<td style="text-align: left;">N. Main St</td>
+<td style="text-align: left;">funnel cakes, lemonade</td>
+<td style="text-align: center;">9a until sold out</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">La Gringa</td>
+<td style="text-align: left;">Chapel Rd</td>
+<td style="text-align: left;">empanadas, tenders</td>
+<td style="text-align: center;">9:30a-5p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Lions Club</td>
+<td style="text-align: left;">by Railroad</td>
+<td style="text-align: left;">burgers, dogs &amp; sausages</td>
+<td style="text-align: center;">9:30a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Little Villagio</td>
+<td style="text-align: left;">on Main St</td>
+<td style="text-align: left;">pizza</td>
+<td style="text-align: center;">11a-5p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Little Villagio</td>
+<td style="text-align: left;">Villagio rear parking lot</td>
+<td style="text-align: left;">street tacos</td>
+<td style="text-align: center;">11a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Smoke-N-Shine</td>
+<td style="text-align: left;">Chapel Rd</td>
+<td style="text-align: left;">brisket, BBQ, skewers, fries, loaded mac</td>
+<td style="text-align: center;">9a-5p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Snowie of Va</td>
+<td style="text-align: left;">Clifton Town Park</td>
+<td style="text-align: left;">shaved ice</td>
+<td style="text-align: center;">9a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Zuzu Cuisine</td>
+<td style="text-align: left;">Chapel Rd</td>
+<td style="text-align: left;">Mediterranean &amp; coffee</td>
+<td style="text-align: center;">7a-5p</td>
+</tr>
+</tbody>
+</table>
+<h3 id="town-eateries">Town Eateries</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Clifton Café</th>
+<th style="text-align: left;">crepes, sandwiches, salads, drinks</th>
+<th style="text-align: center;">8a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Main Street Pub</td>
+<td style="text-align: left;">grill, pub, general store</td>
+<td style="text-align: center;">8a-11p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Môtier</td>
+<td style="text-align: left;">French pastry &amp; cuisine</td>
+<td style="text-align: center;">8a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Peterson’s Ice Cream</td>
+<td style="text-align: left;">ice cream, bbq, nuggets, fries</td>
+<td style="text-align: center;">10a-5p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Trattoria Villagio</td>
+<td style="text-align: left;">elegant Italian</td>
+<td style="text-align: center;">11:30p-9p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Trummer’s</td>
+<td style="text-align: left;">American bistro</td>
+<td style="text-align: center;">10a-6p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">The Wine Attic</td>
+<td style="text-align: left;">wine tastings</td>
+<td style="text-align: center;">11a-5p</td>
+</tr>
+</tbody>
+</table>
+<h3 id="virginia-railway-express---masks-required">Virginia Railway Express - Masks Required</h3>
+<p>Track crossing is not permitted while train is in Clifton. To board train, wait on Caboose side (South) of the tracks well before the train arrives and the crossing guards close.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">To Burke</th>
+<th style="text-align: center;">To Manassas</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">9:02a</td>
+<td style="text-align: center;">9:45a</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10:28a</td>
+<td style="text-align: center;">11:17a</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">12:05p</td>
+<td style="text-align: center;">12:55p</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">1:42p</td>
+<td style="text-align: center;">2:30p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3:14p</td>
+<td style="text-align: center;">4:00p</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">4:44p</td>
+<td style="text-align: center;">5:33p</td>
+</tr>
+</tbody>
+</table>
+<p>Last Trains: To Burke: 4:44p, To Manassas: 5:33p</p>
+<h3 id="services">Services</h3>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Info Booth/Lost &amp; Found</th>
+<th style="text-align: left;">outside The Wine Attic</th>
+<th style="text-align: center;">8a-5p</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Parking Shuttle</td>
+<td style="text-align: left;">Chapel Rd at Water St</td>
+<td style="text-align: center;">8:30a–5:30p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ATMs</td>
+<td style="text-align: left;">3 Locations: Ayre Square, Môtier and Clifton Presbyterian Church</td>
+<td style="text-align: center;">9a-5p</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Baby Change/Family Rest</td>
+<td style="text-align: left;">Clifton Baptist Church</td>
+<td style="text-align: center;">9a-4p</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Worship Service</td>
+<td style="text-align: left;">Clifton Baptist Church</td>
+<td style="text-align: center;">10:30a</td>
+</tr>
+</tbody>
+</table>
+<h3 id="sponsors">Sponsors</h3>
+<ul>
+<li>Virginia Railway Express<br /></li>
+<li>Norfolk Southern<br /></li>
+<li>Peterson Companies<br /></li>
+<li>Ourisman Fairfax Toyota<br /></li>
+<li>Thomas Custom Builders<br /></li>
+<li>Villagio Hospitality Group<br /></li>
+<li>Clifton Exteriors<br /></li>
+<li>The Centers for Advanced Orthopaedics/Richard Layfield MD<br /></li>
+<li>Innovation Health<br /></li>
+<li>Carrie &amp; Co. Real Estate Group-RE/MAX<br /></li>
+<li>Professional Tutoring, LLC</li>
+</ul>
+</body>
+</html>
+</body>
+</html>
