@@ -1,6 +1,2 @@
-all:	README.md
-	pandoc README.md --output=docs/index.html --from=markdown_github --to=html5 --include-before-body=include-before-body.html --include-after-body=include-after-body.html
-
-new:	README.md
-	pandoc README.md --output=docs/index.html --from=markdown        --to=html5 --include-before-body=include-before-body.html --include-after-body=include-after-body.html
-
+all:	README.md includes/include-before-body.html includes/include-after-body.html includes/timesguide-qr-code-high-2x2.png
+	pandoc README.md --self-contained --output=docs/index.html --from=markdown_github --to=html5 --include-before-body=includes/include-before-body.html --include-after-body=includes/include-after-body.html
