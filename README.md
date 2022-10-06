@@ -57,7 +57,7 @@ Clifton Town Park (behind Clifton Baptist Church)
 
 CBA Barn, Main Street - North of Tracks
 
-##### Children 4–12 under 100 lbs. $5 suggested donation
+##### Children 4–12 under 100 lbs. $10 suggested donation
 
 | :------------------------------------- | :-------------: |
 | Pony Rides by Cloverleaf Equine Center | 10a-12p & 1p-3p |
