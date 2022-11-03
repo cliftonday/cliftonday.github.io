@@ -2,10 +2,10 @@
 
 ## Steps to updated site
 
-### Edit TimesGuide.md
+### Edit index.md
 
 ```
-vi TimesGuide.md
+vi index.md
 ```
 
 ### Generate site docs/index.html
