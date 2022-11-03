@@ -1,6 +1,6 @@
-# 54th Clifton Day Festival
+# 55th Clifton Day Festival
 
-## Sunday, October 9, 2022
+## Sunday, October 8, 2023
 
 | :------------------------------ | :---: |
 | Festival Hours                  | 9a-5p |
@@ -26,21 +26,14 @@ Clifton Town Hall, Chapel Road
 | :---------------------------------- | :----: |
 | Handcrafted Beer by 2 Silos Brewery | 10a-5p |
 | Select Wines by The Wine Attic      | 10a-5p |
-| Caitlin Schneiderman                | 10a    |
-| Brass Band of Northern Virginia     | 11a    |
-| Karen Jonas                         | 12p    |
-| Low Water Bridge Band               | 1:30p  |
-| Hard Swimmin' Fish                  | 3p     |
-| Randy Thompson Band                 | 4:30p  |
+| TBD                                 |        |
 
 ### Live Music - Ayre Square Acoustic Stage
 
 Main St & Chapel Rd
 
-| :------------------------------ | :-----------: |
-| Sarah Swanner                   | 10a-12p |
-| Working Man's Band              | 12:30p-2:30p  |
-| Brass Band of Northern Virginia | 3p         |
+| :------------------------------ | :----: |
+| TBD                             |        |
 
 ### KidFest – Children’s Activities
 
@@ -53,30 +46,22 @@ Clifton Town Park (behind Clifton Baptist Church)
 | The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 12p-12:30p & 2p-2:30p |
 | Kids Interactive Activities (Learn to Juggle, Bubbles, Hula Hoop & more) | 10a-4p                |
 
-### Pony Rides
+Pony Rides, CBA Barn, Main Street - North of Tracks
 
-CBA Barn, Main Street - North of Tracks
-
-##### Children 4–12 under 100 lbs. $10 suggested donation
+*Children 4–12 under 100 lbs. $10 suggested donation*
 
 | :------------------------------------- | :-------------: |
 | Pony Rides by Cloverleaf Equine Center | 10a-12p & 1p-3p |
+
+Clifton Fire Station 416, Chapel Rd
+
+| :---------------------- | :-----: |
+| Fire Station Open House |  9a-5p  |
 
 ### Food & Snacks
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
-| Baja Fresh                  | Chapel Rd                 | burritos, quesadillas, chips                 | 9:30-5p           |
-| Boy Scout Troop 1104        | at First Baptist Church   | cider, lemon sticks, bakery, cotton candy    | 9a-5p             |
-| Clifton Presbyterian Church | behind Trummer’s          | crab cakes, beef brisket, corn dogs          | 11a-4p            |
-| Colonial Kettle Corn        | by Caboose                | kettle and cheese corn                       | 9a-5:30p          |
-| LaToya’s Kitchen            | N. Main St                | funnel cakes, lemonade                       | 9a until sold out |
-| Lions Club                  | by Railroad               | burgers, dogs, sausages                      | 9:30a-5p          |
-| Little Villagio             | Tent 1 on Main St         | pizza, cannoli                               | 11a-5p            |
-| Little Villagio             | Tent 2 on Main St         | street tacos                                 | 11a-5p            |
-| Pupusa Tent                 | Chapel Rd                 | pupusas, panes con pollo                     | 9:30a-5p          |
-| Snowie of Va                | Clifton Town Park         | shaved ice                                   | 9a-5p             |
-| Zuzu Cuisine                | Chapel Rd                 | Mediterranean & coffee                       | 7a-5p             |
 
 ### Town Eateries
 
@@ -123,20 +108,6 @@ __Last Trains: To Burke: 4:44p, To Manassas: 5:33p__
 
 
 ### Sponsors
-
-  - Carrie & Co. Real Estate Group-RE/MAX
-  - Cascades Dental
-  - Clifton Exteriors
-  - Cooper Ginsberg Gray Lawyers
-  - Innovation Health
-  - Market Wealth Management
-  - Norfolk Southern
-  - Northern Virginia Conservation Trust
-  - Ourisman Fairfax Toyota
-  - Thomas Custom Builders
-  - United Bank
-  - Villagio Hospitality Group
-  - Virginia Railway Express
 
 ### Share Guide
 
