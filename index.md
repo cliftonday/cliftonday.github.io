@@ -11,7 +11,7 @@
 ### Arts & Crafts and Outdoor Marketplace
 
 | :---------------------------------------- | :---: |
-| Main Street & Trummer's Parking Lot       | 9a-5p |
+| Main Street & Trummer’s Parking Lot       | 9a-5p |
 | Chapel Road, Clifton Shoppes’ Parking Lot | 9a-5p |
 
 ### Vintage & Antiques
@@ -86,12 +86,12 @@ South End of Main Street
 | :---------------------- | ---------------------------------------------------------------- | :---------: |
 | Info Booth/Lost & Found | outside The Wine Attic                                           | 8a-5p       |
 | Parking Shuttles        | Chapel at Water & Main at Dell                                   | 8:30a–5:30p |
-| ATMs                    | Ayre Square, Main Street Pub                                     | 9a-5p       |
+| ATMs                    | Main Street Pub                                                  | 9a-5p       |
 | Baby Change/Family Rest | Clifton Baptist Church                                           | 9a-4p       |
-| Worship Service         | Clifton Baptist Church                                           | 10:30a      |
 | Quiet Room              | Clifton Presbyterian Church                                      | 9a-5p       |
+| Blood Mobile            | Acacia Lodge                                                     | TBD         |
 
-### Virginia Railway Express - Masks Required
+### Virginia Railway Express
 
 Track crossing is not permitted while train is in Clifton.  To board train, wait on Caboose side (South) of the tracks well before the train arrives and the crossing gates close.
 
