@@ -26,25 +26,34 @@ Clifton Town Hall, Chapel Road
 | :---------------------------------- | :----: |
 | Handcrafted Beer by 2 Silos Brewery | 10a-5p |
 | Select Wines by The Wine Attic      | 10a-5p |
-| TBD                                 |        |
+
+Artists 
+
+| :---------------------------------- | :----: |
+| Caitlin Schneiderman                | 10:30a |
+| Furnace Mountain                    | 11:30a |
+| Bobby Thompson Band                 |  1:15p |
+| Brennan Edwards Band                |  2:30p |
+| Shotgun Highway                     |  4:00p |
 
 ### Live Music - Ayre Square Acoustic Stage
 
 Main St & Chapel Rd
 
-| :------------------------------ | :----: |
-| TBD                             |        |
+| :------------------------------ | :-----: |
+| Working Mans Band               | 10a-12p |
+| Sarah Swanner                   | 12p-2p  |
 
 ### KidFest – Children’s Activities
 
 Clifton Town Park (behind Clifton Baptist Church)
 
-| :----------------------------------------------------------------------- | :-------------------: |
-| Petting Zoo                                                              | 9a-5p                 |
-| Face Painting                                                            | 9:30a-4p              |
-| T-Ball and Games                                                         | 9a-5p                 |
-| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 12p-12:30p & 2p-2:30p |
-| Kids Interactive Activities (Learn to Juggle, Bubbles, Hula Hoop & more) | 10a-4p                |
+| :----------------------------------------------------------------------- | :------: |
+| Petting Zoo                                                              | 9a-5p    |
+| Face Painting                                                            | 9:30a-4p |
+| T-Ball and Games                                                         | 9a-5p    |
+| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11a & 2p |
+| Kids Interactive Activities (Bubbles, Hula Hoop & more)                  | 10a-4p   |
 
 Pony Rides, CBA Barn, Main Street - North of Tracks
 
@@ -60,8 +69,22 @@ Clifton Fire Station 416, Chapel Rd
 
 ### Food & Snacks
 
+Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendors sell bottled water and canned soft drinks.
+
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
+| Bella’s Café | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Zaatar & Jibneb, Fatayer (Spinach & Feta), And Nutella; Chicken Tawook Wrap, and Lebanese Pastries  [V] | 9a-5p |
+| Boy Scout Troop 1104 | at First Baptist Church | Lemon Sticks, Baked Goods, Cotton Candy, Apple Butter, Fruit Preserves, Hot Apple Cider, Coffee, Tea, and Hot Chocolate  [V, Gf] | 9a-5p |
+| Clifton Lions Club | by the Railroad | Hamburgers, Hot Dogs, Italian Sausages, and Chips | 9a-5p |
+| Clifton Presbyterian Church | behind Trummer’s | Crab Cakes, Beef Brisket, Corn Dogs, and Home-Baked Sweets | 11a-4p |
+| Colonial Kettle Corn | by the Caboose | Fresh Popped Kettle Corn and Flavored Cheese Corn  [V] | 9a-5p |
+| Cooking Thyme | N. Main Street | Funnel Cakes and Lemonade  [V] | 9a until sold out |
+| Everyone Eats | Chapel Road | Chicken Sandwich and Beignet | 9a-5p |
+| Little Villagio | Main Street | Pizza by the Slice: Cheese and Pepperoni, Cannoli, and Baked Meatballs  [V] | 9a-5p |
+| Pupusa Tent | Chapel Road | Pork Pupusa, Cheese Pupusa, and Jarritos Soft Drinks  [V] | 9a-5p |
+| Snowie Shaved Ice of Virginia | Harris Park (children’s playground) | Snow Cones  [V, GF] | 9a-5p |
+| Street Taco Stand | Main Street | Tacos:  Carne Asada, Chorizo, Chicken, Vegetable, Shrimp; and Jarritos Soft Drinks  [V] | 9a-5p |
+| Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, and Baked Goods and Middle Eastern Pastries  [V, GF] | 7a-5p |
 
 ### Town Eateries
 
@@ -89,7 +112,7 @@ South End of Main Street
 | ATMs                    | Main Street Pub                                                  | 9a-5p       |
 | Baby Change/Family Rest | Clifton Baptist Church                                           | 9a-4p       |
 | Quiet Room              | Clifton Presbyterian Church                                      | 9a-5p       |
-| Blood Mobile            | Acacia Lodge                                                     | TBD         |
+| Bloodmobile             | Acacia Lodge                                                     | 9a-3p       |
 
 ### Virginia Railway Express
 
