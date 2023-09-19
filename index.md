@@ -76,7 +76,7 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 | Bella’s Café | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Zaatar & Jibneb, Fatayer (Spinach & Feta), And Nutella; Chicken Tawook Wrap, and Lebanese Pastries  [V] | 9a-5p |
 | Boy Scout Troop 1104 | at First Baptist Church | Lemon Sticks, Baked Goods, Cotton Candy, Apple Butter, Fruit Preserves, Hot Apple Cider, Coffee, Tea, and Hot Chocolate  [V, Gf] | 9a-5p |
 | Clifton Lions Club | by the Railroad | Hamburgers, Hot Dogs, Italian Sausages, and Chips | 9a-5p |
-| Clifton Presbyterian Church | behind Trummer’s | Crab Cakes, Beef Brisket, Corn Dogs, and Home-Baked Sweets | 11a-4p |
+| Clifton Presbyterian Church | behind Trummer’s | Gourmet Lump Crab Cakes Sandwich, Beef Brisket Sandwich, Corn Dogs, and Lemonade & Iced Tea | 11a-4p |
 | Colonial Kettle Corn | by the Caboose | Fresh Popped Kettle Corn and Flavored Cheese Corn  [V] | 9a-5p |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Lemonade  [V] | 9a until sold out |
 | Everyone Eats | Chapel Road | Chicken Sandwich and Beignet | 9a-5p |
@@ -89,13 +89,13 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 ### Town Eateries
 
 | :----------------------- | :---------------------------------------- | :-------: |
-| Clifton Café             | brunch, crepes, sandwiches, salads, drink | 8a-6p     |
-| Main Street Pub          | pub fare & general store                  | 8a-10p    |
-| Môtier                   | French pastry & cuisine                   | 8a-5p     |
-| Peterson’s Ice Cream     | ice cream                                 | 11a-8p    |
-| Trattoria Villagio       | elegant Italian                           | 11:30p-9p |
-| Trummer’s                | American bistro                           | 11a-5p    |
-| The Wine Attic           | wine tastings                             | 11a-6p    |
+| [Clifton Cafe](https://www.cliftoncafe.com/_files/ugd/d0c92b_ab0cdde61f2a47d981e6f88e356396a0.pdf) | Weekend brunch including savory and sweet crepes, breakfast, sandwiches, salads, smoothies, mimosa and more! [V, GF] | 8a-5p |
+| [Main Street Pub](https://www.themainstreetpub.net/menu) | Limited pub fare menu (brunch, lunch and dinner) & general store [V, GF] | 8a-10p |
+| [Môtier](https://www.motierclifton.com/menu-) | French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee.  [V] | 8a-5p |
+| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/menu) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich; 12 ice cream flavors including seasonal specialties: Pumpkin and Maple Walnut.  [V, GF] | 11a-8p |
+| [Trattoria Villagio](https://trattoriavillagio.com/our-menus/) | Elegant Italian serving full menu inside [V, GF] | 11:30a-9p |
+| [Trummer’s](https://www.trummersrestaurant.com/wp-content/uploads/2023/07/TOM_Lunch-07.26.23-w.new-items.pdf) | Pork BBQ Sandwiches and Freshly Fried Beignets outside TO GO, and American bistro serving full lunch menu inside [V, GF] | 11a-5p |
+| [The Wine Attic](https://www.thewineattic.com/) | Wine tastings:  _Casual Wine Tasting_ - variety of wines from around the world (outside on Main St.; standing). _The Kings of Italy_ - Italian wine tasting (indoor entrance through caboose parking lot; seated).  [V, GF] | 11a-6p |
 
 ### Historical Activities
 
