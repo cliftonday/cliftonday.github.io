@@ -1,4 +1,4 @@
-# 55th Clifton Day Festival
+# 55th Clifton Day Festival - "_fall for Clifton_"
 
 ## Sunday, October 8, 2023
 
@@ -140,6 +140,7 @@ __Last Trains: To Burke: 4:44p, To Manassas: 5:33p__
   - [Northern Virginia Conservation Trust](https://nvct.org/)
   - [Thomas Custon Builders](https://www.thomascustombuilders.com/)
   - [Cooper Ginsberg Gray PLLC](https://cgglawyers.com/)
+  - [Clifton Design Studio](https://cliftondesignstudio.com/)
   - [Norfolk Southern](http://www.nscorp.com/nscportal/nscorp/)
   - [Clifton Exteriors, LLC](https://cliftonexteriors.com/)
   - [Carrie&Co Real Estate Group](https://www.carriesoldme.com/)
