@@ -74,9 +74,9 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
 | Bella’s Café | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Zaatar & Jibneb, Fatayer (Spinach & Feta), And Nutella; Chicken Tawook Wrap, and Lebanese Pastries  [V] | 9a-5p |
-| Boy Scout Troop 1104 | at First Baptist Church | Lemon Sticks, Baked Goods, Cotton Candy, Apple Butter, Fruit Preserves, Hot Apple Cider, Coffee, Tea, and Hot Chocolate  [V, Gf] | 9a-5p |
+| Boy Scout Troop 1104 | at First Baptist Church | Lemon Sticks, Baked Goods, Cotton Candy, Apple Butter, Fruit Preserves, Hot Apple Cider, Coffee, Tea, and Hot Chocolate  [V, GF] | 9a-5p |
 | Clifton Lions Club | by the Railroad | Hamburgers, Hot Dogs, Italian Sausages, and Chips | 9a-5p |
-| Clifton Presbyterian Church | behind Trummer’s | Gourmet Lump Crab Cakes Sandwich, Beef Brisket Sandwich, Corn Dogs, and Lemonade & Iced Tea | 11a-4p |
+| Clifton Presbyterian Church | behind Trummer’s | Gourmet Lump Crab Cakes Sandwich, Beef Brisket Sandwich, Corn Dogs, and Lemonade & Iced Tea | 11a-3:30p |
 | Colonial Kettle Corn | by the Caboose | Fresh Popped Kettle Corn and Flavored Cheese Corn  [V] | 9a-5p |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Lemonade  [V] | 9a until sold out |
 | Everyone Eats | Chapel Road | Chicken Sandwich and Beignet | 9a-5p |
