@@ -79,7 +79,6 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 | Clifton Presbyterian Church | behind Trummer’s | Gourmet Lump Crab Cakes Sandwich, Beef Brisket Sandwich, Corn Dogs, and Lemonade & Iced Tea | 11a-3:30p |
 | Colonial Kettle Corn | by the Caboose | Fresh Popped Kettle Corn and Flavored Cheese Corn  [V] | 9a-5p |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Lemonade  [V] | 9a until sold out |
-| Everyone Eats | Chapel Road | Chicken Sandwich and Beignet | 9a-5p |
 | Little Villagio | Main Street | Pizza by the Slice: Cheese and Pepperoni, Cannoli, and Baked Meatballs  [V] | 9a-5p |
 | Pupusa Tent | Chapel Road | Pork Pupusa, Cheese Pupusa, and Jarritos Soft Drinks  [V] | 9a-5p |
 | Snowie Shaved Ice of Virginia | Harris Park (children’s playground) | Snow Cones  [V, GF] | 9a-5p |
