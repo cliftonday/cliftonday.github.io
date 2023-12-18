@@ -1,6 +1,6 @@
-# 55th Clifton Day Festival - "_fall for Clifton_"
+# 56th Clifton Day Festival
 
-## Sunday, October 8, 2023
+## Sunday, October 13, 2024
 
 | :------------------------------ | :---: |
 | Festival Hours                  | 9a-5p |
@@ -30,19 +30,14 @@ Clifton Town Hall, Chapel Road
 Artists 
 
 | :---------------------------------- | :----: |
-| Caitlin Schneiderman                | 10:30a |
-| Furnace Mountain                    | 11:30a |
-| Bobby Thompson Band                 |  1:15p |
-| Brennan Edwards Band                |  2:30p |
-| Shotgun Highway                     |  4:00p |
+| TBD                                 | TBD    |
 
 ### Live Music - Ayre Square Acoustic Stage
 
 Main St & Chapel Rd
 
 | :------------------------------ | :-----: |
-| Working Mans Band               | 10a-12p |
-| Sarah Swanner                   | 12p-2p  |
+| TBD                             | TBD     |
 
 ### KidFest – Children’s Activities
 
@@ -73,17 +68,7 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
-| Bella’s Café | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Zaatar & Jibneb, Fatayer (Spinach & Feta), And Nutella; Chicken Tawook Wrap, and Lebanese Pastries  [V] | 9a-5p |
-| Boy Scout Troop 1104 | at First Baptist Church | Lemon Sticks, Baked Goods, Cotton Candy, Apple Butter, Fruit Preserves, Hot Apple Cider, Coffee, Tea, and Hot Chocolate  [V, GF] | 9a-5p |
-| Clifton Lions Club | by the Railroad | Hamburgers, Hot Dogs, Italian Sausages, and Chips | 9a-5p |
-| Clifton Presbyterian Church | behind Trummer’s | Gourmet Lump Crab Cakes Sandwich, Beef Brisket Sandwich, Corn Dogs, and Lemonade & Iced Tea | 11a-3:30p |
-| Colonial Kettle Corn | by the Caboose | Fresh Popped Kettle Corn and Flavored Cheese Corn  [V] | 9a-5p |
-| Cooking Thyme | N. Main Street | Funnel Cakes and Lemonade  [V] | 9a until sold out |
-| Little Villagio | Main Street | Pizza by the Slice: Cheese and Pepperoni, Cannoli, and Baked Meatballs  [V] | 9a-5p |
-| Pupusa Tent | Chapel Road | Pork Pupusa, Cheese Pupusa, and Jarritos Soft Drinks  [V] | 9a-5p |
-| Snowie Shaved Ice of Virginia | Harris Park (children’s playground) | Snow Cones  [V, GF] | 9a-5p |
-| Street Taco Stand | Main Street | Tacos:  Carne Asada, Chorizo, Chicken, Vegetable, Shrimp; and Jarritos Soft Drinks  [V] | 9a-5p |
-| Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, and Baked Goods and Middle Eastern Pastries  [V, GF] | 7a-5p |
+| TBD | TBD | TBD | TBD |
 
 ### Town Eateries
 
@@ -130,6 +115,8 @@ __Last Trains: To Burke: 4:44p, To Manassas: 5:33p__
 
 
 ### Sponsors
+
+2023 Sponsors
 
   - [Clifton Design Studio](https://cliftondesignstudio.com/)
   - [CARRIE&CO Real Estate Group](https://www.carriesoldme.com/)
