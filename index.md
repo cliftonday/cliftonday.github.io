@@ -1,5 +1,7 @@
 # 56th Clifton Day Festival
 
+Clifton Day - _My Favorite Holiday_
+
 ## Sunday, October 13, 2024
 
 | :------------------------------ | :---: |
@@ -90,13 +92,17 @@ South End of Main Street
 
 ### Services
 
-| :---------------------- | ---------------------------------------------------------------- | :---------: |
-| Info Booth/Lost & Found | outside The Wine Attic                                           | 8a-5p       |
-| Parking Shuttles        | Chapel at Water & Main at Dell                                   | 8:30a–5:30p |
-| ATMs                    | Main Street Pub                                                  | 9a-5p       |
-| Baby Change/Family Rest | Clifton Baptist Church                                           | 9a-4p       |
-| Quiet Room              | Clifton Presbyterian Church                                      | 9a-5p       |
-| Bloodmobile             | Acacia Lodge                                                     | 9a-3p       |
+| :---------------------- | -------------------------------| :---------: |
+| ATMs                    | Main Street Pub                | 9a-5p       |
+| Baby Change/Family Rest | Clifton Baptist Church         | 9a-4p       |
+| Bloodmobile             | Acacia Lodge                   | 9a-3p       |
+| Composting              | by Post Office                 | 9a-5p       |
+| Handicap Parking        | Trummer's                      | 9a-5p       |
+| Info Booth/Lost & Found | outside The Wine Attic         | 8a-5p       |
+| Free Water Refills      | by Post Office                 | 9a-5p       |
+| Parking Shuttles        | Chapel at Water & Main at Dell | 8:30a–5:30p |
+| Quiet Room              | Clifton Presbyterian Church    | 9a-5p       |
+| Recycling               | by Post Office                 | 9a-5p       |
 
 ### Virginia Railway Express
 
@@ -113,24 +119,28 @@ __Last Trains: To Burke: 4:44p, To Manassas: 5:33p__
 |  3:14p   |  4:00p      |
 |  4:44p   |  5:33p      |
 
+  - [Full Train Schedule](https://www.cliftonday.com/about-clifton#comp-lv99r3fb)
 
 ### Sponsors
 
-2023 Sponsors
-
-  - [Clifton Design Studio](https://cliftondesignstudio.com/)
-  - [CARRIE&CO Real Estate Group](https://www.carriesoldme.com/)
-  - [Culipher for Clerk of Court](https://www.culipherforclerk.com/)
-  - [Ourisman Fairfax Toyota](http://ourismanfairfaxtoyota.com/)
+  - [Virginia Railway Express (VRE)](https://vre.org/)
   - [Norfolk Southern](http://www.nscorp.com/nscportal/nscorp/)
-  - [Jazzercise](https://www.jazzercise.com/)
+  - [Cascades Dental of Centreville](https://cascadesdental.com/)
   - [GRB - Golden Rule Builders](https://www.goldenrulebuilders.com/)
   - [Northern Virginia Conservation Trust](https://nvct.org/)
-  - [Cascades Dental of Centreville](https://cascadesdental.com/)
-  - [Virginia Railway Express](https://vre.org/)
-  - [RODAN+FIELDS](https://www.rodanandfields.com/en-us/)
-  - [United Bank](https://bankwithunited.com/)
+  - [Exterior Medics](https://www.exteriormedics.com/)
+  - [Ourisman Fairfax Toyota](http://ourismanfairfaxtoyota.com/)
+  - [Main Street Pub](https://www.themainstreetpub.net/)
+  - [Jennifer Birtwhistle, Realtor](https://www.jennifirsellshomes.com/)
   - [Thomas Custon Builders](https://www.thomascustombuilders.com/)
+  - [Hello Garage](https://www.hellogarage.com/)
+  - [Professional Tutoring](https://juliarosspt.com/)
+  - Color Street
+  - [Signature Aesthetics](https://www.signatureaestheticsva.com/)
+  - [Cooper Ginsburg Gray](https://www.cgglawyers.com/)
+  - [The Caza Group at Keller Williams](https://www.thecazagroup.com/)
+  - [CARRIE&CO Real Estate Group](https://www.carriesoldme.com/)
+
 
 ### Share Guide
 
