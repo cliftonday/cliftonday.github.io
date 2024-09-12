@@ -32,14 +32,19 @@ Clifton Town Hall, Chapel Road
 Artists 
 
 | :---------------------------------- | :----: |
-| TBD                                 | TBD    |
+| Caitlin Schneiderman                | 10:30a |
+| Furnace Mountain                    | 11:30a |
+| The Sidleys                         |  1:15p |
+| Brennan Edwards Band                |  2:30p |
+| Randy Thompson Band                 |  4:00p |
+
 
 ### Live Music - Ayre Square Acoustic Stage
 
 Main St & Chapel Rd
 
 | :------------------------------ | :-----: |
-| TBD                             | TBD     |
+| Sarah Swanner                   | 10a-12p |
 
 ### KidFest – Children’s Activities
 
