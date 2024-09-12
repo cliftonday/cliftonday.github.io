@@ -102,7 +102,7 @@ South End of Main Street
 | Baby Change/Family Rest | Clifton Baptist Church         | 9a-4p       |
 | Bloodmobile             | Acacia Lodge                   | 9a-3p       |
 | Composting              | by Post Office                 | 9a-5p       |
-| Handicap Parking        | Trummer's                      | 9a-5p       |
+| Handicapped Parking     | Trummer's                      | 9a-5p       |
 | Info Booth/Lost & Found | outside The Wine Attic         | 8a-5p       |
 | Free Water Refills      | by Post Office                 | 9a-5p       |
 | Parking Shuttles        | Chapel at Water & Main at Dell | 8:30a–5:30p |
