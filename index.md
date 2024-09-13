@@ -82,12 +82,12 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 ### Town Eateries
 
 | :----------------------- | :---------------------------------------- | :-------: |
-| [Clifton Cafe](https://www.cliftoncafe.com/_files/ugd/d0c92b_ab0cdde61f2a47d981e6f88e356396a0.pdf) | Weekend brunch including savory and sweet crepes, breakfast, sandwiches, salads, smoothies, mimosa and more! [V, GF] | 8am-5pm |
-| [Main Street Pub](https://www.themainstreetpub.net/menu) | Limited pub fare menu (brunch, lunch and dinner) & general store [V, GF] | 8am-10pm |
-| [Môtier](https://www.motierclifton.com/menu-) | French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee.  [V] | 8am-5pm |
-| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/menu) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich; 12 ice cream flavors including seasonal specialties: Pumpkin and Maple Walnut.  [V, GF] | 11am-8pm |
-| [Trattoria Villagio](https://trattoriavillagio.com/our-menus/) | Elegant Italian serving full menu inside [V, GF] | 11:30am-9pm |
-| [Trummer’s](https://www.trummersrestaurant.com/wp-content/uploads/2023/07/TOM_Lunch-07.26.23-w.new-items.pdf) | Pork BBQ Sandwiches and Freshly Fried Beignets outside TO GO, and American bistro serving full lunch menu inside [V, GF] | 11am-5pm |
+| [Clifton Cafe](https://www.cliftoncafe.com/) | Weekend brunch including savory and sweet crepes, breakfast, sandwiches, salads, smoothies, mimosa and more! [V, GF] | 8am-5pm |
+| [Main Street Pub](https://www.themainstreetpub.net/) | Limited pub fare menu (brunch, lunch and dinner) & general store [V, GF] | 8am-10pm |
+| [Môtier](https://www.motierclifton.com/) | French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee.  [V] | 8am-5pm |
+| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich; 12 ice cream flavors including seasonal specialties: Pumpkin and Maple Walnut.  [V, GF] | 11am-8pm |
+| [Trattoria Villagio](https://trattoriavillagio.com/) | Elegant Italian serving full menu inside [V, GF] | 11:30am-9pm |
+| [Trummer’s](https://www.trummersrestaurant.com/) | Pork BBQ Sandwiches and Freshly Fried Beignets outside TO GO, and American bistro serving full lunch menu inside [V, GF] | 11am-5pm |
 | [The Wine Attic](https://www.thewineattic.com/) | Wine tastings:  _Casual Wine Tasting_ - variety of wines from around the world (outside on Main St.; standing). _The Kings of Italy_ - Italian wine tasting (indoor entrance through caboose parking lot; seated).  [V, GF] | 11am-6pm |
 
 ### Historical Activities
