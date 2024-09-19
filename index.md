@@ -110,17 +110,17 @@ South End of Main Street
 
 ### Services
 
-| :---------------------- | -------------------------------| :-----------: |
-| ATMs                    | Main Street Pub                | 9am-5pm       |
-| Baby Change/Family Rest | Clifton Baptist Church         | 9am-4pm       |
-| Bloodmobile             | Acacia Lodge                   | 9am-3pm       |
-| Composting              | by Post Office                 | 9am-5pm       |
-| Handicapped Parking     | Trummer's                      | 9am-5pm       |
-| Info Booth/Lost & Found | outside The Wine Attic         | 8am-5pm       |
-| Free Water Refills      | by Post Office                 | 9am-5pm       |
-| Parking Shuttles        | Chapel at Water & Main at Dell | 8:30am–5:30pm |
-| Quiet Room              | Clifton Presbyterian Church    | 9am-5pm       |
-| Recycling               | by Post Office                 | 9am-5pm       |
+| :---------------------- | ----------------------------------------------------------------------------| :-----------: |
+| ATMs                    | Main Street Pub (7140 Main), Belle Jar (7137 Main), The Hive (12642 Chapel) | 9am-5pm       |
+| Baby Change/Family Rest | Clifton Baptist Church                                                      | 9am-4pm       |
+| Bloodmobile             | Acacia Lodge                                                                | 9am-3pm       |
+| Composting              | by Post Office                                                              | 9am-5pm       |
+| Handicapped Parking     | Trummer's                                                                   | 9am-5pm       |
+| Info Booth/Lost & Found | outside The Wine Attic                                                      | 8am-5pm       |
+| Free Water Refills      | by Post Office                                                              | 9am-5pm       |
+| Parking Shuttles        | Chapel at Water & Main at Dell                                              | 8:30am–5:30pm |
+| Quiet Room              | Clifton Presbyterian Church                                                 | 9am-5pm       |
+| Recycling               | by Post Office                                                              | 9am-5pm       |
 
 ### Virginia Railway Express
 
