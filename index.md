@@ -164,4 +164,4 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
 
 ![Clifton Day Times Guide](includes/timesguide-qr-code-high-2x2.png)
 
-Resources: [Event Web Site](https://www.cliftonday.com/), [Event Map](https://www.cliftonday.com/content/map)
+Resources: [Event Web Site](https://www.cliftonday.com/), [Event Map](https://www.cliftonday.com/map)
