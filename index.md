@@ -150,7 +150,6 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
   - [Ourisman Fairfax Toyota](http://ourismanfairfaxtoyota.com/)
   - [Main Street Pub](https://www.themainstreetpub.net/)
   - [Jennifer Birtwhistle, Realtor](https://www.jennifirsellshomes.com/)
-  - [Thomas Custom Builders](https://www.thomascustombuilders.com/)
   - [Hello Garage](https://www.hellogarage.com/)
   - [Professional Tutoring](https://juliarosspt.com/)
   - [Color Street](http://www.colorstreet.com/slgold)
