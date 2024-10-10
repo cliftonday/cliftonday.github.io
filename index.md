@@ -12,6 +12,8 @@ Clifton Day - _My Favorite Holiday_
 
 ### Arts & Crafts and Outdoor Marketplace
 
+[Vendor List](vendors.html)
+
 | :---------------------------------------- | :-----: |
 | Main Street & Trummer’s Parking Lot       | 9am-5pm |
 | Chapel Road, Clifton Shoppes’ Parking Lot | 9am-5pm |
