@@ -55,7 +55,7 @@ Clifton Town Park (behind Clifton Baptist Church)
 | Face Painting                                                            | 9:30am-4pm            |
 | T-Ball and Games                                                         | 9am-5pm               |
 | The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11:30am & 2pm         |
-| Magic Show                                                               | 12:30pm               |
+| Magic Show by The Amazing Kevin                                          | 12:30pm               |
 | Strolling Magician                                                       | 10-11:30am & 2:30-4pm |
 | Kids Interactive Activities (Bubbles, Hula Hoop, Magician & more)        | 10am-4pm              |
 
