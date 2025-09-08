@@ -1,8 +1,8 @@
-# 56th Clifton Day Festival
+# 57th Clifton Day Festival
 
-Clifton Day - _My Favorite Holiday_
+Clifton Day - _Main Street Magicy_
 
-## Sunday, October 13, 2024
+## Sunday, October 12, 2025
 
 | :------------------------------ | :-----: |
 | Festival Hours                  | 9am-5pm |
@@ -35,18 +35,18 @@ Artists
 
 | :---------------------------------- | :-----: |
 | Caitlin Schneiderman                | 10:30am |
-| Furnace Mountain                    | 11:30am |
-| The Sidleys                         |  1:15pm |
-| Brennan Edwards Band                |  2:30pm |
-| Randy Thompson Band                 |  4:00pm |
+| Ted Garber                          | 11:30am |
+| Working Mans Band                   |  1:00pm |
+| The High Water w/ Colin Thompson    |  2:30pm |
+| Road Duckspson Band                 |  4:00pm |
 
 
 ### Live Music - Ayre Square Acoustic Stage
 
 Main St & Chapel Rd
 
-| :------------------------------ | :-------: |
-| Sarah Swanner                   | 10am-12pm |
+| :------------------------------ | :------------: |
+| Sarah Swanner                   | 10:30am-1:30pm |
 
 ### KidFest – Children’s Activities
 
