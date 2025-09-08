@@ -6,6 +6,7 @@
 
 ```
 vi index.md
+vi vendors.md
 ```
 
 ### Generate site docs/index.html
