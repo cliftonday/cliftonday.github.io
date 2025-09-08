@@ -1,25 +1,29 @@
 # 57th Clifton Day Festival
 
-_Main Street Magic_
+## _Main Street Magic_
 
 ## Sunday, October 12, 2025
 
+|                                 |         |
 | :------------------------------ | :-----: |
 | Festival Hours                  | 9am-5pm |
 | Last Train to Burke             | 4:44pm  |
 | Last Train to Manassas          | 5:33pm  |
+| Last Parking Shuttle            | 5:30pm  |
 | Roads closed to through traffic | 8am-6pm |
 
 ### Arts & Crafts and Outdoor Marketplace
 
 [Vendor List](vendors.html)
 
+|                                           |         |
 | :---------------------------------------- | :-----: |
 | Main Street & Trummer’s Parking Lot       | 9am-5pm |
 | Chapel Road, Clifton Shoppes’ Parking Lot | 9am-5pm |
 
 ### Vintage & Antiques
 
+|                                          |         |
 | :--------------------------------------- | :-----: |
 | Main St & Chapel Rd, Caboose Parking Lot | 9am-5pm |
 
@@ -27,12 +31,14 @@ _Main Street Magic_
 
 Clifton Town Hall, Chapel Road
 
+|                                     |          |
 | :---------------------------------- | :------: |
 | Handcrafted Beer by 2 Silos Brewery | 10am-5pm |
 | Select Wines by The Wine Attic      | 10am-5pm |
 
 Artists
 
+|                                     |         |
 | :---------------------------------- | :-----: |
 | Caitlin Schneiderman                | 10:30am |
 | Ted Garber                          | 11:30am |
@@ -45,6 +51,7 @@ Artists
 
 Main St & Chapel Rd
 
+|                                 |                |
 | :------------------------------ | :------------: |
 | Sarah Swanner                   | 10:30am-1:30pm |
 
@@ -54,6 +61,7 @@ Clifton Town Park (behind Clifton Baptist Church) 9:00am-4:00pm
 
 #### Children’s Shows
 
+|                                                                          |                 |
 | :----------------------------------------------------------------------- | :-------------: |
 | The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11:00am-11:30pm |
 | Magic Show by The Amazing Kevin                                          | 12pm-12:45pm    |
@@ -62,6 +70,7 @@ Clifton Town Park (behind Clifton Baptist Church) 9:00am-4:00pm
 
 #### Children’s Activities
 
+|                                                                |                           |
 | :------------------------------------------------------------- | :-----------------------: |
 | Petting Zoo                                                    | 9am-4pm                   |
 | Face Painting                                                  | 9:30am-4pm                |
@@ -73,11 +82,13 @@ Pony Rides, CBA Barn, Main Street - North of Tracks
 
 *Children 4–12 under 100 lbs. $10 suggested donation*
 
+|                                        |                     |
 | :------------------------------------- | :-----------------: |
 | Pony Rides by Cloverleaf Equine Center | 10am-12pm & 1pm-3pm |
 
 Clifton Fire Station 416, Chapel Rd
 
+|                         |           |
 | :---------------------- | :-------: |
 | Fire Station Open House |  9am-5pm  |
 
@@ -102,6 +113,7 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 ### Town Eateries
 
+| Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
 | [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice. [V]   __Inside__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jan2024.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF]  | 8a-6p |
 | [Main Street Pub](https://www.themainstreetpub.net/) | Special Clifton Day Pub fare menu (brunch, lunch, and dinner) & general store. [V, GF]  | 8a-10p |
@@ -115,12 +127,14 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 South End of Main Street
 
+|                          |           |
 | :----------------------- | :-------: |
 | Primitive Baptist Church |  9am-5pm  |
 
 ### Services
 
-| :---------------------- | ----------------------------------------------------------------------------| :-----------: |
+| What                    | Where                                                                       | When          |
+| :---------------------- | --------------------------------------------------------------------------- | :-----------: |
 | ATMs                    | Main Street Pub (7140 Main), Belle Jar (7137 Main), The Hive (12642 Chapel) | 9am-5pm       |
 | Baby Change/Family Rest | Clifton Baptist Church                                                      | 9am-4pm       |
 | Bloodmobile             | Acacia Lodge                                                                | 9am-3pm       |
@@ -147,7 +161,7 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
 |  3:14pm   |  4:00pm      |
 |  4:44pm   |  5:33pm      |
 
-  - [Full Train Schedule](https://www.cliftonday.com/about-clifton#comp-lv99r3fb)
+  - [Full Train Schedule](https://www.cliftonday.com/about-clifton)
 
 ### Sponsors
 
@@ -167,7 +181,6 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
   - [Cooper Ginsburg Gray](https://www.cgglawyers.com/)
   - [The Caza Group at Keller Williams](https://www.thecazagroup.com/)
   - [CARRIE&CO Real Estate Group](https://www.carriesoldme.com/)
-
 
 ### Share Guide
 
