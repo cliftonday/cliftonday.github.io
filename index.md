@@ -1,4 +1,6 @@
-# 57th Clifton Day Festival - _Main Street Magic_
+# 57th Clifton Day Festival
+
+_Main Street Magic_
 
 ## Sunday, October 12, 2025
 
