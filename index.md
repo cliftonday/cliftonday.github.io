@@ -44,8 +44,7 @@ Artists
 | Ted Garber                          | 11:30am |
 | Working Mans Band                   |  1:00pm |
 | The High Water w/ Colin Thompson    |  2:30pm |
-| Road Duckspson Band                 |  4:00pm |
-
+| Road Ducks                          |  4:00pm |
 
 ### Live Music - Ayre Square Acoustic Stage
 
@@ -57,9 +56,9 @@ Main St & Chapel Rd
 
 ### KidFest
 
-Clifton Town Park (behind Clifton Baptist Church)
+No pets! Live animals!
 
-#### Children’s Shows, Clifton Town Park
+#### Children’s Shows, Clifton Town Park (behind Clifton Baptist Church)
 
 |                                                                          |                 |
 | :----------------------------------------------------------------------- | :-------------: |
