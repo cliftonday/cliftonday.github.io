@@ -57,25 +57,25 @@ Main St & Chapel Rd
 
 ### KidFest
 
-Clifton Town Park (behind Clifton Baptist Church) 9:00am-4:00pm
+Clifton Town Park (behind Clifton Baptist Church)
 
-#### Children’s Shows in Clifton Town Park
+#### Children’s Shows, Clifton Town Park
 
 |                                                                          |                 |
 | :----------------------------------------------------------------------- | :-------------: |
-| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11:00am-11:30pm |
+| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11am-11:30pm |
 | Magic Show by The Amazing Kevin                                          | 12pm-12:45pm    |
 | Rocknoceros Show                                                         | 1pm-3pm         |
 | The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 3-3:30pm        |
 
-#### Children’s Activities Clifton Town Park
+#### Children’s Activities, Clifton Town Park
 
 |                                                                |                           |
 | :------------------------------------------------------------- | :-----------------------: |
 | Petting Zoo                                                    | 9am-4pm                   |
 | Face Painting                                                  | 9:30am-4pm                |
 | T-Ball and Games                                               | 9am-4pm                   |
-| Strolling Magician                                             | 9:30am-11:00am & 1:30-3pm |
+| Strolling Magician                                             | 9:30am-11am & 1:30-3pm |
 | Kids Interactive Activities (Bubbles, Hula Hoop & more)        | 10am-4pm                  |
 
 #### Children’s Pony Rides, CBA Barn, Main Street - North of Tracks
@@ -146,7 +146,7 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 ### Virginia Railway Express
 
-Track crossing is not permitted while train is in Clifton.  To board train, wait on Caboose side (South) of the tracks well before the train arrives and the crossing gates close.
+Track crossing is not permitted while train is in Clifton.  To board train, wait on Caboose side (South) of the tracks well before the train arrives and before the crossing gates close.
 
 __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
 
