@@ -59,7 +59,7 @@ Main St & Chapel Rd
 
 Clifton Town Park (behind Clifton Baptist Church) 9:00am-4:00pm
 
-#### Children’s Shows
+#### Children’s Shows in Clifton Town Park
 
 |                                                                          |                 |
 | :----------------------------------------------------------------------- | :-------------: |
@@ -68,7 +68,7 @@ Clifton Town Park (behind Clifton Baptist Church) 9:00am-4:00pm
 | Rocknoceros Show                                                         | 1pm-3pm         |
 | The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 3-3:30pm        |
 
-#### Children’s Activities
+#### Children’s Activities Clifton Town Park
 
 |                                                                |                           |
 | :------------------------------------------------------------- | :-----------------------: |
@@ -78,7 +78,7 @@ Clifton Town Park (behind Clifton Baptist Church) 9:00am-4:00pm
 | Strolling Magician                                             | 9:30am-11:00am & 1:30-3pm |
 | Kids Interactive Activities (Bubbles, Hula Hoop & more)        | 10am-4pm                  |
 
-Pony Rides, CBA Barn, Main Street - North of Tracks
+#### Children’s Pony Rides, CBA Barn, Main Street - North of Tracks
 
 *Children 4–12 under 100 lbs. $10 suggested donation*
 
@@ -86,7 +86,7 @@ Pony Rides, CBA Barn, Main Street - North of Tracks
 | :------------------------------------- | :-----------------: |
 | Pony Rides by Cloverleaf Equine Center | 10am-12pm & 1pm-3pm |
 
-Clifton Fire Station 416, Chapel Rd
+#### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
 |                         |           |
 | :---------------------- | :-------: |
@@ -125,11 +125,9 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 ### Historical Activities
 
-South End of Main Street
-
-|                          |           |
-| :----------------------- | :-------: |
-| Primitive Baptist Church |  9am-5pm  |
+|                          |                          |           |
+| :----------------------- | :----------------------- | :-------: |
+| Primitive Baptist Church | South End of Main Street |  9am-5pm  |
 
 ### Services
 
