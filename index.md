@@ -97,30 +97,30 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
-| Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sods and Bottled Water. [V]  | 9a-5p |
-| Bella’s Café | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Zaatar & Jibneb, and Fatayer (Spinach & Feta); Kafta Wrap and Chicken Tawook Wrap; Hummus with Pita Bread; and Lebanese Pastries; Water, Sodas, and Juices. [V]  | 9a-5p |
-| Boy Scout Troop 1104 | at First Baptist Church | Lemon Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate and Bottled Water. [V, GF]  | 9a-5p |
+| Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas and Bottled Water. [V]  | 9a-5p |
+| Bella’s Café (Saj Bread) | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Za'atar & Jibneb, and Fatayer (Spinach & Feta); Kafta Wrap and Chicken Tawook Wrap; Hummus with Pita Bread; and Middle Eastern Pastries; Water, Sodas, and Juices. [V]  | 9a-5p |
+| Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate and Bottled Water. [V, GF]  | 9a-5p |
 | Clifton Lions Club | by the Railroad | Hamburgers, Cheeseburgers, Hot Dogs, Italian Sausages, and Chips; Soda and Bottled Water | 9a-5p |
-| Clifton Presbyterian Church | behind Trummer’s | Crab Cakes, Beef Brisket, Corn Dogs, and Home-Baked Sweets | 11a-4p |
+| Clifton Presbyterian Church | behind Trummer’s | Crab Cake dinner, Beef Brisket dinner, and Home-Baked Sweets - dinners served with slaw and brioche bun | 11a-4p |
 | Colonial Kettle Corn | by the Caboose | On-site Popped Kettle Corn, Various Cheese Flavored Corn, Caramel Corn; Movie Theater Butter Corn; Bottled Water. [V]  | 9a-5p |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Fresh Squeezed Lemonade. [V]  | 9a until sold out |
-| Little Villagio | Main Street | Pizza by the Slice: Cheese and Pepperoni, Cannoli, and Baked Meatballs. [V]  | 9a-5p |
-| Pupusa Tent | Chapel Road | Revuelta Pupusa, Cheese Pupusa, and Jarritos Soft Drinks. [V]  | 9a-5p |
+| Little Villagio | Main Street | Pizza by the Slice: Cheese and Pepperoni. [V]  | 9a-5p |
+| Pupusa Tent | Chapel Road | Revuelta (pork) Pupusa, Cheese Pupusa, and Jarritos; Soft Drinks. [V]  | 9a-5p |
 | Snowie Shaved Ice of Virginia | Harris Park (children’s playground) | Snow Cones. [V, GF]  | 9a-5p |
-| Street Taco Stand | Main Street | Tacos: Carne Asada, Chorizo, Chicken, Vegetable, Shrimp; and Jarritos Soft Drinks. [V]  | 9a-5p |
+| Street Taco Stand | Main Street | Tacos: Carne Asada (beef), Chicken, and Vegetable with Jarritos, Soft Drinks and Water. [V]  | 9a-5p |
 | Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, and Baked Goods and Middle Eastern Pastries; Bottled Water and Soda. [V, GF]  | 7a-5p |
 
 ### Town Eateries
 
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
-| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice. [V]   __Inside__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jan2024.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF]  | 8a-6p |
-| [Main Street Pub](https://www.themainstreetpub.net/) | Special Clifton Day Pub fare menu (brunch, lunch, and dinner) & general store. [V, GF]  | 8a-10p |
+| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice. [V]   __Inside__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF]  | 8a-6p |
+| [Main Street Pub](https://www.themainstreetpub.net/) | Special Clifton Day Pub fare menu (wings, chili, gumbo, nachos, gurgers, sandwiches, salads) & general store. [V, GF]  | 8a-10p |
 | [Môtier](https://www.motierclifton.com/) | French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee ([menu](https://www.motierclifton.com/menu-)). [V]  | 8a-5p |
 | [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich. [V, GF]  | 11a-8p |
 | [Trattoria Villagio](https://trattoriavillagio.com/menu) | Elegant Italian serving full menu inside. [V, GF]  | 11:30a-9p |
-| [Trummer’s](https://www.trummersrestaurant.com/) | Pork BBQ Sandwiches and Freshly Fried Beignets outside TO GO, and American bistro serving [full lunch menu inside](https://www.trummersrestaurant.com/wp-content/uploads/2024/06/Lunch-June-2024.pdf). [V, GF]  | 11a-5p |
-| [The Wine Attic](https://www.thewineattic.com/) | _Wine tastings_: __Casual Wine Tasting__ - variety of wines from Austria (outside on Main St.; standing).  [V, GF]  __Upscale Wine Tasting__ - Elevated wine tasting experience featuring bigger & bolder wines (indoor entrance through caboose parking lot; seated). [V, GF]  __Beer Tasting__ - Craft beer tastings featuring local brewery Bitter Fruit Brewing Company (upstairs inside main shop; standing). [V]  | 11a-6p |
+| [Trummer’s](https://www.trummersrestaurant.com/) | __Inside Restaurant__ - Schnitzel, Burgers, Salads and Pasta __Front Porch Outide To GO__ - Freshly Fried Beignets [V, GF]  | 11a-5p |
+| [The Wine Attic](https://www.thewineattic.com/) | __Outside__ - Casual wine tasting with a variety of four wines [V, GF]  __Inside Shop__ - Elevated wine tasting experience featuring four bigger & bolder wines [V, GF] | 11a-6p |
 
 ### Historical Activities
 
