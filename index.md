@@ -56,7 +56,7 @@ Main St & Chapel Rd
 
 ### KidFest
 
-No pets! Live animals!
+No dogs!
 
 #### Children’s Shows, Clifton Town Park (behind Clifton Baptist Church)
 
@@ -79,7 +79,7 @@ No pets! Live animals!
 
 #### Children’s Pony Rides, CBA Barn, Main Street - North of Tracks
 
-*Children 4–12 under 100 lbs. $10 suggested donation*
+*Children 4–12 under 100 lbs. $10 suggested donation. No dogs!*
 
 |                                        |                     |
 | :------------------------------------- | :-----------------: |
