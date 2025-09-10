@@ -62,7 +62,7 @@ No dogs!
 
 |                                                                          |                 |
 | :----------------------------------------------------------------------- | :-------------: |
-| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11am-11:30pm |
+| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11am-11:30am    |
 | Magic Show by The Amazing Kevin                                          | 12pm-12:45pm    |
 | Rocknoceros Show                                                         | 1pm-3pm         |
 | The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 3-3:30pm        |
