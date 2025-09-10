@@ -115,7 +115,7 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
 | [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice. [V]   __Inside__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF]  | 8a-6p |
-| [Main Street Pub](https://www.themainstreetpub.net/) | Special Clifton Day Pub fare menu (wings, chili, gumbo, nachos, gurgers, sandwiches, salads) & general store. [V, GF]  | 8a-10p |
+| [Main Street Pub](https://www.themainstreetpub.net/) | Special Clifton Day Pub fare menu (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store. [V, GF]  | 8a-11p |
 | [Môtier](https://www.motierclifton.com/) | French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee ([menu](https://www.motierclifton.com/menu-)). [V]  | 8a-5p |
 | [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich. [V, GF]  | 11a-8p |
 | [Trattoria Villagio](https://trattoriavillagio.com/menu) | Elegant Italian serving full menu inside. [V, GF]  | 11:30a-9p |
