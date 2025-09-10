@@ -40,10 +40,10 @@ Artists
 
 |                                     |         |
 | :---------------------------------- | :-----: |
-| Caitlin Schneiderman                | 10:30am |
+| Caitlin Schneiderman and Mike Elosh | 10:30am |
 | Ted Garber                          | 11:30am |
 | Working Mans Band                   |  1:00pm |
-| The High Water w/ Colin Thompson    |  2:30pm |
+| The High Water with Colin Thompson  |  2:30pm |
 | Road Ducks                          |  4:00pm |
 
 ### Live Music - Ayre Square Acoustic Stage
