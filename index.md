@@ -112,13 +112,13 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
-| [Clifton Cafe](https://www.cliftoncafe.com/) | __Inside Restaurant__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF] __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice. [V] | 8a-6p |
-| [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day Pub fare menu (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store. [V, GF]  | 8a-11p |
-| [Môtier](https://www.motierclifton.com/) | French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee ([menu](https://www.motierclifton.com/menu-)). [V]  | 8a-5p |
-| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich. [V, GF]  | 11a-8p |
-| [Trattoria Villagio](https://trattoriavillagio.com/menu) | __Inside Restaurant__ - Elegant Italian serving full menu inside. [V, GF] __Outside__ - Tacos: Carne Asada (beef), Chicken, and Vegetable with Jarritos, Soft Drinks and Water. [V] Pizza by the Slice: Cheese and Pepperoni. [V]  | 9a-5p, 11:30a-9p (restaurant) |
-| [Trummer’s](https://www.trummersrestaurant.com/) | __Inside Restaurant__ - Schnitzel, Burgers, Salads and Pasta __Outide__ - Freshly Fried Beignets [V, GF]  | 11a-5p |
-| [The Wine Attic](https://www.thewineattic.com/) | __Inside Shop__ - Elevated wine tasting experience featuring four bigger & bolder wines [V, GF]. __Outside__ - Casual wine tasting with a variety of four wines [V, GF] | 11a-6p |
+| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice [V]; __Inside Restaurant__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF] | 8a-6p |
+| [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day Pub fare menu (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store [V, GF]  | 8a-11p |
+| [Môtier](https://www.motierclifton.com/) | __Chaple Road__ - French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee ([menu](https://www.motierclifton.com/menu-)) [V]  | 8a-5p |
+| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich [V, GF]  | 11a-8p |
+| [Trattoria Villagio](https://trattoriavillagio.com/menu) | __Outside__ - Pizza by the Slice (cheese and Pepperoni) [V]; Street Tacos (cheese, beef, chicken) [V]; __Inside Restaurant__ - Elegant Italian serving full menu inside [V, GF] | 9a-5p, 11:30a-9p (restaurant) |
+| [Trummer’s](https://www.trummersrestaurant.com/) | __Outside__ - Freshly Fried Beignets [V]; __Inside Restaurant__ - Schnitzel, Burgers, Salads and Pasta [V, GF]| 11a-5p |
+| [The Wine Attic](https://www.thewineattic.com/) | __Outside__ - Casual wine tasting with a variety of four wines [V, GF]; __Inside Shop__ - Elevated wine tasting experience featuring four bigger & bolder wines [V, GF] | 11a-6p |
 
 ### Historical Activities
 
