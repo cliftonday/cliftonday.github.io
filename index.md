@@ -174,7 +174,6 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
   - [Norfolk Southern](https://www.norfolksouthern.com/)
   - [United Bank](https://locations.bankwithunited.com/va/clifton/5766-union-mill-road-3743.html)
   - [Main Street Pub](https://www.themainstreetpub.net/)
-  - [Exterior Medics](https://www.exteriormedics.com/)
 
 ### Share Guide
 
