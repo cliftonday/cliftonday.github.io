@@ -42,9 +42,9 @@ Artists
 | :---------------------------------- | :-----: |
 | Caitlin Schneiderman and Mike Elosh | 10:30am |
 | Ted Garber                          | 11:30am |
-| Working Mans Band                   |  1:00pm |
+| Workingman's Band                   |  1:00pm |
 | The High Water with Colin Thompson  |  2:30pm |
-| Road Ducks                          |  4:00pm |
+| Roadducks                           |  4:00pm |
 
 ### Live Music - Ayre Square Acoustic Stage
 
@@ -97,27 +97,27 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
-| Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas and Bottled Water. [V]  | 9am-5pm |
+| Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas, and Bottled Water. [V]  | 9am-5pm |
 | Bella’s Café (Saj Bread) | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Za'atar & Jibneb, and Fatayer (Spinach & Feta); Kafta Wrap and Chicken Tawook Wrap; Hummus with Pita Bread; and Middle Eastern Pastries; Water, Sodas, and Juices. [V]  | 9am-5pm |
-| Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate and Bottled Water. [V, GF]  | 9am-5pm |
-| Clifton Lions Club | by the Railroad | Hamburgers, Cheeseburgers, Hot Dogs, Italian Sausages, and Chips; Soda and Bottled Water | 9am-5pm |
+| Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate, and Bottled Water. [V, GF]  | 9am-5pm |
+| Clifton Lions Club | by the Railroad | Hamburgers, Cheeseburgers, Hot Dogs, Italian Sausages, Chips, Sodas, and Bottled Water | 9am-5pm |
 | Clifton Presbyterian Church | behind Trummer’s | Crab Cake dinner, Beef Brisket dinner, and Home-Baked Sweets - dinners served with slaw and brioche bun | 11am-4pm |
 | Colonial Kettle Corn | by the Caboose | On-site Popped Kettle Corn, Various Cheese Flavored Corn, Caramel Corn; Movie Theater Butter Corn; Bottled Water. [V]  | 9am-5pm |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Fresh Squeezed Lemonade. [V]  | 9am until sold out |
-| Pupusa Tent | Chapel Road | Revuelta (pork) Pupusa, Cheese Pupusa, and Jarritos; Soft Drinks. [V]  | 9am-5pm |
-| Snowie Shaved Ice of Virginia | Harris Park (children’s playground) | Snow Cones. [V, GF]  | 9am-5pm |
-| Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, and Baked Goods and Middle Eastern Pastries; Bottled Water and Soda. [V, GF]  | 7am-5pm |
+| Pupusa Tent | Chapel Road | Revuelta (pork) Pupusa, Cheese Pupusa, Jarritos, and Soft Drinks. [V]  | 9am-5pm |
+| Snowie Shaved Ice of Virginia | Clifton Town Park (children’s playground) | Snow Cones. [V, GF]  | 9am-5pm |
+| Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, Baked Goods, Middle Eastern Pastries, Bottled Water, and Soda. [V, GF]  | 7am-5pm |
 
 ### Town Eateries
 
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
-| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes and sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice [V]; __Inside Restaurant__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosa, bourbon, beer, wine, and more! [V, GF] | 8am-6pm |
+| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes, sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice [V]; __Inside Restaurant__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosas, bourbon, beer, wine, and more! [V, GF] | 8am-6pm |
 | [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day Pub fare [menu](2025-menu-main_stree_pub.pdf) (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store [V, GF]  | 8am-11pm |
-| [Môtier](https://www.motierclifton.com/) | __Chaple Road__ - French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads; and wine, coffee ([menu](2025-menu-motier.pdf)) [V]  | 8am-5pm |
-| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwich [V, GF]  | 11am-8pm |
+| [Môtier](https://www.motierclifton.com/) | __Chapel Road__ - French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads, wine, and coffee ([menu](2025-menu-motier.pdf)) [V]  | 8am-5pm |
+| [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwiches [V, GF]  | 11am-8pm |
 | [Trattoria Villagio](https://trattoriavillagio.com/menu) | __Outside__ - Pizza by the Slice (cheese and Pepperoni) [V]; Street Tacos (cheese, beef, chicken) [V]; __Inside Restaurant__ - Elegant Italian serving full menu inside [V, GF] | 9am-5pm, 11:30am-9pm (restaurant) |
-| [Trummer’s](https://www.trummersrestaurant.com/) | __Outside__ - Freshly Fried Beignets [V]; __Inside Restaurant__ - Schnitzel, Burgers, Salads and Pasta [V, GF]| 11am-5pm |
+| [Trummer’s](https://www.trummersrestaurant.com/) | __Outside__ - Freshly Fried Beignets [V]; __Inside Restaurant__ - Schnitzel, Burgers, Salads, and Pasta [V, GF]| 11am-5pm |
 | [The Wine Attic](https://www.thewineattic.com/) | __Outside__ - Casual wine tasting with a variety of four wines [V, GF]; __Inside Shop__ - Elevated wine tasting experience featuring four bigger & bolder wines [V, GF] | 11am-6pm |
 
 ### Historical Activities
@@ -171,7 +171,7 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
   - [Virginia Railway Express (VRE)](https://vre.org/)
   - [The Dog Stop](https://thedogstop.com/)
   - [The Caza Group at Keller Williams](https://www.thecazagroup.com/)
-  - [Norfolk Southern](http://www.nscorp.com/nscportal/nscorp/)
+  - [Norfolk Southern](https://www.norfolksouthern.com/)
   - [United Bank](https://locations.bankwithunited.com/va/clifton/5766-union-mill-road-3743.html)
   - [Main Street Pub](https://www.themainstreetpub.net/)
   - [Exterior Medics](https://www.exteriormedics.com/)

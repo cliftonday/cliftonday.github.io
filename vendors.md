@@ -12,7 +12,7 @@
 | Angel Feathers Studio | 117 |
 | Antiques of Fairfax Station | 201 |
 | Apple Juice Tea Party | 173 |
-| Aqua Tots Swim Schools | Kidsfest |
+| Aqua Tots Swim Schools | Kidfest |
 | Art and Flowers | 163 |
 | Art By Alexandra | 180 |
 | Art Glass Gardens | 118 |
