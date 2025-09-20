@@ -100,11 +100,11 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 | Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas, and Bottled Water. [V]  | 9am-5pm |
 | Bella’s Café (Saj Bread) | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Za'atar & Jibneb, and Fatayer (Spinach & Feta); Kafta Wrap and Chicken Tawook Wrap; Hummus with Pita Bread; and Middle Eastern Pastries; Water, Sodas, and Juices. [V]  | 9am-5pm |
 | Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate, and Bottled Water. [V, GF]  | 9am-5pm |
-| Clifton Lions Club | by the Railroad | Hamburgers, Cheeseburgers, Hot Dogs, Italian Sausages, Chips, Sodas, and Bottled Water | 9am-5pm |
+| Clifton Lions Club | by the Railroad | Hamburgers, Cheeseburgers, Hot Dogs, Chips, Sodas, and Bottled Water | 9am-5pm |
 | Clifton Presbyterian Church | behind Trummer’s | Crab Cake dinner, Beef Brisket dinner, and Home-Baked Sweets - dinners served with slaw and brioche bun | 11am-4pm |
 | Colonial Kettle Corn | by the Caboose | On-site Popped Kettle Corn, Various Cheese Flavored Corn, Caramel Corn; Movie Theater Butter Corn; Bottled Water. [V]  | 9am-5pm |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Fresh Squeezed Lemonade. [V]  | 9am until sold out |
-| Kona Ice | Clifton Town Park (children’s playground) | Flavored, shaved ice. [V, GF]  | 9am-4pm |
+| Kona Ice | Clifton Town Park (children’s playground) | Tropical Flavored Shaved Ice. [V, GF]  | 9am-4pm |
 | Pupusa Tent | Chapel Road | Revuelta (pork) Pupusa, Cheese Pupusa, Jarritos, and Soft Drinks. [V]  | 9am-5pm |
 | Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, Baked Goods, Middle Eastern Pastries, Bottled Water, and Soda. [V, GF]  | 7am-5pm |
 
