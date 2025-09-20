@@ -2,7 +2,6 @@
 
 | Vendor | Location |
 | :--- | :---: |
-|  | PBC |
 | A Hobby Gone Wild | 113 |
 | Alan's Creations | 154 |
 | Amanda's Jewelry Box | 130 |
@@ -67,6 +66,7 @@
 | JEM'S JEMS Jewelry | 139 |
 | Jewelry By Roz | 167 |
 | Jimmy's Hatch Pepper Salsa | 12 |
+| Joyce Kendall | PBC |
 | Julie Gross Artist | 186 |
 | Just What I Was Looking For! | 137 |
 | K2C Wildlife Encounters | AYRE |
