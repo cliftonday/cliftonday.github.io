@@ -85,6 +85,8 @@ No dogs!
 | :------------------------------------- | :-----------------: |
 | Pony Rides by Cloverleaf Equine Center | 10am-12pm & 1pm-3pm |
 
+Note: Weather Permitting
+
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
 |                         |           |
