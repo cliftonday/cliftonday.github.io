@@ -81,11 +81,9 @@ No dogs!
 
 *Children 4–12 under 100 lbs. $10 suggested donation. No dogs!*
 
-|                                        |                     |
-| :------------------------------------- | :-----------------: |
-| Pony Rides by Cloverleaf Equine Center | 10am-12pm & 1pm-3pm |
-
-Note: Weather Permitting
+|                                        |                        |
+| :------------------------------------- | :--------------------: |
+| Pony Rides by Cloverleaf Equine Center | Cancled due to weather |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
