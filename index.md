@@ -1,8 +1,8 @@
-# 57th Clifton Day Festival
+# 58th Clifton Day Festival
 
-## _Main Street Magic_
+## _This is how I roll!_
 
-## Sunday, October 12, 2025
+## Sunday, October 11, 2026
 
 |                                 |         |
 | :------------------------------ | :-----: |
@@ -40,11 +40,11 @@ Artists
 
 |                                     |         |
 | :---------------------------------- | :-----: |
-| Caitlin Schneiderman and Mike Elosh | 10:30am |
-| Ted Garber                          | 11:30am |
-| Workingman's Band                   |  1:00pm |
-| The High Water with Colin Thompson  |  2:30pm |
-| Roadducks                           |  4:00pm |
+| TODO                                | 10:30am |
+| TODO                                | 11:30am |
+| TODO                                |  1:00pm |
+| TODO                                |  2:30pm |
+| TODO                                |  4:00pm |
 
 ### Live Music - Ayre Square Acoustic Stage
 
@@ -62,28 +62,16 @@ No dogs!
 
 |                                                                          |                 |
 | :----------------------------------------------------------------------- | :-------------: |
-| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 11am-11:30am    |
-| Magic Show by The Amazing Kevin                                          | 12pm-12:45pm    |
-| Rocknoceros Show                                                         | 1pm-3pm         |
-| The Unicycle Lady, One Woman Wheelie Witty Wacky Silly Suitcase Circus   | 3-3:30pm        |
+| TODO                                                                     | TODO            |
+| Rocknoceros Show                                                         | 1pm-3pm  TO VERIFIY       |
 
 #### Children’s Activities, Clifton Town Park
 
 |                                                                |                           |
 | :------------------------------------------------------------- | :-----------------------: |
-| Petting Zoo                                                    | 9am-4pm                   |
 | Face Painting                                                  | 9:30am-4pm                |
 | T-Ball and Games                                               | 9am-4pm                   |
-| Strolling Magician                                             | 9:30am-11am & 1:30-3pm |
-| Kids Interactive Activities (Bubbles, Hula Hoop & more)        | 10am-4pm                  |
-
-#### Children’s Pony Rides, CBA Barn, Main Street - North of Tracks
-
-*Children 4–12 under 100 lbs. $10 suggested donation. No dogs!*
-
-|                                        |                        |
-| :------------------------------------- | :--------------------: |
-| Pony Rides by Cloverleaf Equine Center | Cancled due to weather |
+| Strolling Magician VERIFY                                      | 9:30am-11am & 1:30-3pm |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
@@ -94,6 +82,8 @@ No dogs!
 ### Food & Snacks
 
 Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendors sell bottled water and canned soft drinks.
+
+TO UPDATE for 2026
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
@@ -110,6 +100,8 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 ### Town Eateries
 
+TO UPDATE Menu Links for 2026
+
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
 | [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes, sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice [V]; __Inside Restaurant__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosas, bourbon, beer, wine, and more! [V, GF] | 8am-6pm |
@@ -122,11 +114,14 @@ Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendor
 
 ### Historical Activities
 
-|                          |                          |           |
-| :----------------------- | :----------------------- | :-------: |
-| Primitive Baptist Church | South End of Main Street |  9am-5pm  |
+|                           |                          |           |
+| :------------------------ | :----------------------- | :-------: |
+| Primitive Baptist Church  | South End of Main Street |  9am-5pm  |
+| Virgina 250 (TODO VERFIY) | CBA Barn Just North of Railroad |  9am-5pm  |
 
 ### Services
+
+TO VERIFY
 
 | What                    | Where                          | When          |
 | :---------------------- | -------------------------------| :-----------: |
@@ -159,6 +154,8 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
   - [Full Train Schedule](https://www.cliftonday.com/about-clifton)
 
 ### Sponsors
+
+TO UPDATE
 
   - [Cascades Dental of Centreville](https://cascadesdental.com/)
   - [Golden Rule Builders (GRB)](https://www.goldenrulebuilders.com/)
