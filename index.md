@@ -40,11 +40,11 @@ Artists
 
 |                                     |         |
 | :---------------------------------- | :-----: |
-| TODO                                | 10:30am |
-| TODO                                | 11:30am |
-| TODO                                |  1:00pm |
-| TODO                                |  2:30pm |
-| TODO                                |  4:00pm |
+| Caitlyn Schneiderman                | 10:30am |
+| Short Hill Mountain Boys            | 11:30am |
+| Lillian Hackett                     |  1:00pm |
+| Brennan Edwards Band                |  2:15pm |
+| Guy Bouchie Band                    |  4:00pm |
 
 ### Live Music - Ayre Square Acoustic Stage
 
@@ -52,7 +52,7 @@ Main St & Chapel Rd
 
 |                                 |                |
 | :------------------------------ | :------------: |
-| Sarah Swanner                   | 10:30am-1:30pm |
+| Sarah Swanner                   | 11:00am-2:00pm |
 
 ### KidFest
 
