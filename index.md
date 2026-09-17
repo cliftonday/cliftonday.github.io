@@ -73,6 +73,17 @@ No dogs!
 | T-Ball and Games                                               | 9am-4pm                   |
 | Strolling Magician VERIFY                                      | 9:30am-11am & 1:30-3pm |
 
+#### Mini Horse Carnival at the Barn North of the Railway
+
+Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed games, activities, trivia, and more.
+
+Recommended donation $10.
+
+|                                                                |                           |
+| :------------------------------------------------------------- | :-----------------------: |
+| Horse Carnival!                                                | {TODO}                    |
+| Mini horses kissing booth with Eleanor                         | {select times}            |
+
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
 |                         |           |
@@ -138,7 +149,7 @@ TO VERIFY
 
 ### Virginia Railway Express
 
-Track crossing is not permitted while train is in Clifton.  To board train, wait on Caboose side (South) of the tracks well before the train arrives and before the crossing gates close.
+Railway crossing is not permitted while train is in Clifton.  To board train, wait on Caboose side (South) of the tracks well before the train arrives and before the crossing gates close.
 
 __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
 
