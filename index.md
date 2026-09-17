@@ -1,6 +1,6 @@
-# 58th Clifton Day Festival
+# Clifton Day 2026
 
-## _This is how I roll!_
+## _Back in Time_
 
 ## Sunday, October 11, 2026
 
