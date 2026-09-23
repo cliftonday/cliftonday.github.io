@@ -81,7 +81,7 @@ Recommended donation $10.
 
 |                                                                |                           |
 | :------------------------------------------------------------- | :-----------------------: |
-| Horse Carnival!                                                | {TODO}                    |
+| Horse Carnival!                                                | 9am-4pm                   |
 | Mini horses kissing booth with Eleanor                         | {select times}            |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
