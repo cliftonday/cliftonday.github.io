@@ -62,6 +62,7 @@ No pets!
 
 Free activities, shows, and performances at the town park
 
+|                                    |                 |
 | :--------------------------------- | :-------------: |
 | T-Ball and Games                   | 9am - 4pm       |
 | Face Painting                      | 9:30am - 4pm    |
