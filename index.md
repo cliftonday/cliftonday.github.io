@@ -96,7 +96,7 @@ TODO UPDATE for 2026
 | Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas, and Bottled Water. [V]  | 9am-5pm |
 | Bella’s Café (Saj Bread) | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Za'atar & Jibneb, and Fatayer (Spinach & Feta); Kafta Wrap and Chicken Tawook Wrap; Hummus with Pita Bread; and Middle Eastern Pastries; Water, Sodas, and Juices. [V]  | 9am-5pm |
 | Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate, and Bottled Water. [V, GF]  | 9am-5pm |
-| Clifton Lions Club | by the Railroad | Hamburgers, Cheeseburgers, Hot Dogs, Chips, Sodas, and Bottled Water | 9am-5pm |
+| Clifton Lions Club | by the Railway | Hamburgers, Cheeseburgers, Hot Dogs, Chips, Sodas, and Bottled Water | 9am-5pm |
 | Clifton Presbyterian Church | behind Trummer’s | Crab Cake dinner, Beef Brisket dinner, and Home-Baked Sweets - dinners served with slaw and brioche bun | 11am-4pm |
 | Colonial Kettle Corn | by the Caboose | On-site Popped Kettle Corn, Various Cheese Flavored Corn, Caramel Corn; Movie Theater Butter Corn; Bottled Water. [V]  | 9am-5pm |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Fresh Squeezed Lemonade. [V]  | 9am until sold out |
@@ -120,12 +120,11 @@ TODO UPDATE Menu Links for 2026
 
 ### Historical Activities
 
-TODO I think Primitive Baptist Church will not be open.
+Fairfax County's local observance and celebration of the United States' semiquincentennial (250th anniversary) of the American Revolution and U.S. independence.
 
-|                           |                          |           |
-| :------------------------ | :----------------------- | :-------: |
-| Primitive Baptist Church  | South End of Main Street |  9am-5pm  |
-| Virgina 250 (TODO VERFIY) | CBA Barn Just North of Railroad |  9am-5pm  |
+|                           |                             |           |
+| :------------------------ | :-------------------------- | :-------: |
+| Fairfax 250th             | Pink House North of Railway |  9am-5pm  |
 
 ### Services
 
