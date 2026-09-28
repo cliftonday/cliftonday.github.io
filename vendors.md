@@ -1,164 +1,166 @@
 # Vendors
 
-TO UPDATE FORM 2026
-
 | Vendor | Location |
 | :--- | :---: |
-| A Hobby Gone Wild | 113 |
-| Alan's Creations | 154 |
-| Amanda's Jewelry Box | 130 |
-| Amaryllis Author Collective | 3 |
-| Anchors Aweigh Forge | 127 |
-| Animal Clinic of Clifton | 503 |
-| Apple Juice Tea Party | 184 |
-| Aqua Tots Swim Schools | KIDS |
-| Art By Alexandra | 180 |
-| Art Glass Gardens | 118 |
-| BSA Troop 1104 | 116 |
-| Bad Ass Pickles | 337 |
-| Bagel Joy | 321 |
-| Barefoot Treasures Sea Glass & Vintage Silverware | 148 |
-| Beaded Elegance | 156 |
-| Bear Creek Bowl Company | 9 |
-| Bejeweled Era | 316 |
-| BekArt | 16 |
-| Besitoschocolate LLC  | 165 |
-| Betty Jane's Sweet Delights, Inc | 131 |
-| Bgoldman Designs Boutique | 178 |
-| Blacksone Honey Bee Farms | 155 |
-| Blue Nest Design | 146 |
-| Brass Hopper Arts | 17 |
-| Buttercup Farm Furniture LLC | 1 |
-| C & A Soy Candles | 182 |
-| Capital Remodeling | 329 |
-| Cascades Dental of Centreville | 108 |
-| Ciniqo | 149 |
-| Claudia's Bowgarden | 185 |
-| Clifton Café | 101 |
-| Clifton Community Womans Club | 124 |
-| Clifton Horse Society | 30 |
-| Cloverleaf Equine Center | BARN |
-| Colonial Kettle Corn  | 199 |
-| Creations by Stahl | 157 |
-| Cutco | 301 |
-| Design Pro Remodeling | 302 |
-| Earth Essentials by Erica | 122 |
-| Earthwear Tie Dyes | 123 |
-| Easy Peasy Nails with Christine | 338 |
-| El Viajero Coffee | 335 |
-| FA Outdoor Spaces | 307 |
-| Fairfax County Government Prevention | 195 |
-| Fairfax County Republican Com | 327 |
-| Fitly Bespoken Jewelry | 128 |
-| Frocks & Frills | 175 |
-| G & H Gifts | 117 |
-| Goldberry Hill Honey | 105 |
-| Golden Rule Builders | 187 |
-| Grandma Mary's Button & Bows | 25 |
-| Hello Wellness | 23 |
-| Helmer For Virginia | 309 |
-| Hidden Treasure Jewelry LLC | 171 |
-| Honeysuckle Rose | 125 |
-| Horizons at Hemlock Overlook Park | 332 |
-| Infused Moments Artistry | 24 |
-| Iris Crundler Pottery | 144 |
-| Ismega Designs | 305 |
-| Itumiray | 319 |
-| J Edwards Design, LLC | 339 |
-| JEM'S JEMS Jewelry | 139 |
-| Jewelry By Roz | 167 |
-| Jimmy's Hatch Pepper Salsa | 12 |
-| Joyce Kendall | PBC |
-| Julie Gross Artist | 186 |
-| Just What I Was Looking For! | 137 |
-| K2C Wildlife Encounters | AYRE |
-| KLAYISH | 15 |
-| Kate Baker Designs | 508 |
-| Kayvee International, Inc | 315 |
-| Kelly's Custom Creations in Burke | 145 |
-| Kindered Spirit Artwork LLC | 163 |
-| Kindness Rocks | 104 |
-| Kitchen Saver | 317 |
-| Leaf Filter | 308 |
-| Lina's Bakery | 336 |
-| Lord of Life Lutheran Church | 323 |
-| MJ's Designs | 121 |
-| MW Creations | 162 |
-| Magic Moments by Meg | 325 |
-| Marin Woodturning | 19 |
-| Mark Baker Designs | 114 |
-| Mary Lousie Skin & Wick | 138 |
-| Mathnasium of Centreville | 331 |
-| Meanmuggin Ceramics | 106 |
-| Megalodon Shark Teeth | 151 |
-| Melissa Lynn Designs | 143 |
-| MialmaMai | 8 |
-| Mollybeads, LLC | 173 |
-| Morning People Pottery | 160 |
-| Motier | 510 |
-| My Soap Bar | 166 |
-| Mystic Lines | 120 |
-| Nadya's Art Gallery | 109 |
-| Native Inca Art Creations | 311 |
-| Not Just Jars | 141 |
-| Oak Lane Soapworks | 158 |
-| Ornament Envy | 126 |
-| Palmercare Chiropractic | 328 |
-| Pancha's Dessert | 181 |
-| Paper Pie | 304 |
-| Paperchicks | 159 |
-| Paris Love Jewelry | 152 |
-| Pawsitivlely Purrfect | 313 |
-| Peggy's Attic  | 168 |
-| Petersons Ice Cream | 107 |
-| Pindemonium | 322 |
-| Pink Eucalyptus Jewelry | 183 |
-| Plants & What Knot | 142 |
-| Pottery By Megan | 18 |
-| Pup My Style | 6 |
-| Pure Barre Burke | 507 |
-| Ravish Soap Co | 161 |
-| Republican Women of Clifton | 326 |
-| Resource Recovery Project | 504 |
-| Rosies | 133 |
-| Rustic Creations | 177 |
-| School of Rock Fairfax | 330 |
-| Sean Blackford Art | 170 |
-| Serenity Glass | 169 |
-| Sewology by RaRa | 22 |
-| Shelby RMC Creations LLC | 14 |
-| Simple Cookie Company | 306 |
-| Single Sunbeam Studio | 129 |
-| Small Life Photography | 111 |
-| Smell of Love Candles, LLC | 153 |
-| Solar De-Lights | 26 |
-| Something Loopy | 147 |
-| Splendio Cargo | 5 |
-| Split Acres Maple | 179 |
-| Springfield District Democratic Com | 310 |
-| St Clare of Assisi Church | 303 |
-| Stix & Stones | 11 |
-| Sun Design Remodeling | 501 |
-| Supervisor Pat Herrity | 194 |
-| Thara's Tea | 7 |
-| The Chocolate Sauce | 112 |
-| The Dog Stop | 333 |
-| The Fruitful Forest | 164 |
-| The Shell Patch, LLC | 132 |
-| The Wine Attic | 192 |
-| Think Do Shine Designs | 115 |
-| Three Bees & Company | 135 |
-| Trattoria Villagio | 189 |
-| Troy Montana Jewelry | 21 |
-| Twisted Sister Designs by Angel | 134 |
-| Two Sassy Ladies | 324 |
-| UCHU Llc | 318 |
-| Uncommon Finds | 119 |
-| Virginia Mercantile | 334 |
-| WareClay | 110 |
-| Wild About Clifton | AYRE |
-| With You In Mind | 172 |
-| Woodcrafty Creations | 13 |
-| Woodsmith, Wordsmith, Wandsmith | 150 |
-| Yarn Chef Creations | 10 |
-| the Hive | HIVE |
+|A Hobby Gone Wild|113|
+|Abloom|154|
+|Acacia - Blood Drive|Acacia Lodge|
+|Alan's Creations|24|
+|Amanda's Jewelry Box|130|
+|Amaryllis Author Collective|3|
+|An Amazing Chocolate Cake|163|
+|Animal Clinic of Clifton|Animal Clinic|
+|Antiques of Fairfax Station|Antique Alley|
+|Apple Juice Tea Party|177|
+|Art By Alexandra|180|
+|ASQ Solutions|Antique Alley|
+|Aubscents Bath & Body|23|
+|Baby Alpaca LLC|317|
+|Bad Ass Pickles|337|
+|Barefoot Treasures Sea Glass & Vintage Silverware|148|
+|Bee & Bloom Co|151|
+|Bejeweled Era|334|
+|Belle's Welds|TBD|
+|Bgoldman Designs Boutique|178|
+|Blackstone Honey Bee Farms|155|
+|Blackwing Metals|111|
+|Blue Nest Design|162|
+|Boy Witch Broom Co|314|
+|Brocante|Antique Alley|
+|BSA Troop 1104|116|
+|Cascades Dental of Centreville|108|
+|Cedar Post Quilts|131|
+|Certa Pro Painters of Chantilly|115|
+|Circle Time Books|168|
+|Classics by Cindy|128|
+|Claudia's Bowgarden|185|
+|Clifton Community Womans Club|124|
+|Clifton Exteriors|331|
+|Clifton Horse Society|Barn|
+|Cloverleaf|Barn|
+|Commonwealth Appraisers & Jewelers|332|
+|Cotton Lover LLC|149|
+|Creation Pottery|129|
+|CryoCline|8|
+|Cutco|301|
+|Dear Buffalo Designs|13|
+|Delegate Dan Helmer|309|
+|Dermestetics|506|
+|Earthware Tie Byes|123|
+|Easy Peasy Nails with Christine|338|
+|Elementals Soap Co|166|
+|Eliana Curated|313|
+|FA Outdoor Spaces|307|
+|Fairfax 250|32|
+|Fairfax 250th|Pink House|
+|Fairfax County Republican Com|327|
+|Farmers Wife|Antique Alley|
+|Fitly Bespoken Jewelry|165|
+|Floor Coverings International of Northern VA, Inc|328|
+|Flooring America Fairfax|302|
+|Freehill Studio, Inc|186|
+|Frocks & Frills|175|
+|From From Glass|146|
+|Fused Alcherny Studio|9|
+|Gask Technical Services LLC|505|
+|Goldberry Hill Honey|105|
+|Golden Rule Builders|187|
+|Grandma Mary's Button & Bows|25|
+|Great Harvest Bread Company|325|
+|Hidden Treasure Jewelry LLC|171|
+|Holistic Home|Antique Alley|
+|Hometown Go|19|
+|Honeysuckle Rose|125|
+|Horizon Building|333|
+|Horizon Chiropractic & Wellness Solutions|303|
+|Itumiray|319|
+|Jackalyne|Antique Alley|
+|Jarsby Penelope|16|
+|Jedwards Design, LLC|339|
+|JEM'S JEMS Jewelry|139|
+|Jewelry By Roz|167|
+|Jimmy's Hatch Pepper Salsa|12|
+|JSJtherapy LLC|The Hive|
+|Just What I Was Looking For!|137|
+|Kate Baker Designs|508|
+|Kayvee International|315|
+|Kelly's Custom Creations in Burke|144|
+|Ken Beerbohm Sculptures|170|
+|Kindered Spirit Artwork LLC|118|
+|Kindness Rocks|104|
+|Knitnoi|1|
+|Leaf Filter|308|
+|Little Washington Antiques|Antique Alley|
+|Lord of Life Lutheran Church|323|
+|MAK Crafts LLC|312|
+|Mark Baker Designs|114|
+|Mary Lousie Skin & Wick|138|
+|Mathnasium|504|
+|Meanmuggin Ceramics|106|
+|Megalodon Shark Teeth|182|
+|Melissa Lynn Designs|143|
+|MJ's Designs|121|
+|Mollybeads, LLC|173|
+|Morning People Pottery|160|
+|MW Creations|117|
+|Mystic Lines|120|
+|Nadya's Art Gallery|109|
+|Native Inca Art Creations|335|
+|Not Just Jars|141|
+|Oak Lane Soapworks|158|
+|Ornament Envy|127|
+|Palmercare Chiropractic|330|
+|Pancha's Dessert|181|
+|Paper Pie|304|
+|Paperchicks|159|
+|Paris Love Jewelry|152|
+|Pens and Quilling|7|
+|Petit Puffin Play|322|
+|Petra's Pottery|142|
+|Pink Eucalyptus Jewelry|183|
+|Pottery By Megan|18|
+|Prince William Home Improvement|329|
+|Pup My Style|6|
+|Ravish Soap Co|161|
+|Republican Women of Clifton|326|
+|Rosies|133|
+|Rustic Creations|122|
+|Sandra & Craig Moran|Antique Alley|
+|Second Baptist Church|196|
+|Serenity Glass|169|
+|Shelby RMC Creations LLC|14|
+|Simple Cookie Company|17|
+|Singh Vision|197|
+|Single Sunbeam Studio|132|
+|Smell of Love Candles, LLC|153|
+|Solar De-Lights|26|
+|Something Loopy|147|
+|Spice It Rite LLC dba The Warrior Blends|316|
+|Splendio Cargo|5|
+|Split Acres Maple|179|
+|Springfield District Democratic Com|310|
+|St Andrew & St Claire Catholic Churches|305|
+|Stix & Stones|11|
+|Sun Design Remodeling|501|
+|Supervisor Pat Herrity|195|
+|Thara's Tea|22|
+|The Bauble Shop|145|
+|The Chocolate Sauce|112|
+|The Constance Collection|157|
+|The Doc Next Door Family Practice|503|
+|The Fruitful Forest|164|
+|The Joyful Penguin|156|
+|The Little Showroom|Antique Alley|
+|The Rikki Tikki Company|321|
+|The Wine Attic|192|
+|Three Bees & Company|135|
+|Top Shelf Jerky|184|
+|Troy Montana Jewelry|21|
+|Twisted Sister Designs by Angel|134|
+|Two Sassy Ladies|324|
+|Uncommon Finds|119|
+|WareClay|110|
+|Wild About Clifton|Ayre Sq|
+|With You In Mind|172|
+|Woodsmith, Wordsmith, Wandsmith|150|
+|Yarn Chef Creations|10|
