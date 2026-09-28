@@ -56,35 +56,34 @@ Main St & Chapel Rd
 
 ### KidFest
 
-No dogs!
+No pets!
 
-#### Children’s Shows, Clifton Town Park (behind Clifton Baptist Church)
+#### Children’s Activities, Shows, Clifton Town Park (behind Clifton Baptist Church)
 
-|                                                                          |                 |
-| :----------------------------------------------------------------------- | :-------------: |
-| TODO                                                                     | TODO            |
-| Rocknoceros Show                                                         | 1pm-3pm  TO VERIFIY       |
+Free activities, shows, and performances at the town park
 
-#### Children’s Activities, Clifton Town Park
+| :--------------------------------- | :-------------: |
+| T-Ball and Games                   | 9am - 4pm       |
+| Face Painting                      | 9:30am - 4pm    |
+| Juggling Uncle Sam Stilt Walker    | 11am - 3pm      |
+| Comedy & Circus Stunt Show         | 11am & 3pm      |
+| Roving Circus Stunt Man            | 1pm - 2pm       |
+| Rocknoceros Show                   | 1pm - 3pm       |
 
-|                                                                |                           |
-| :------------------------------------------------------------- | :-----------------------: |
-| Face Painting                                                  | 9:30am-4pm                |
-| T-Ball and Games                                               | 9am-4pm                   |
-| Strolling Magician VERIFY                                      | 9:30am-11am & 1:30-3pm |
+#### Mini Horse Carnival at the Clifton Barn North of the Railway
 
-#### Mini Horse Carnival at the Barn North of the Railway
+Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed games, activities, trivia, and more at the Clifton Barn.
 
-Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed games, activities, trivia, and more.
-
-Recommended donation $10.
+Recommended donation $10 to benefit the Cloverleaf Equine Center.
 
 |                                                                |                           |
 | :------------------------------------------------------------- | :-----------------------: |
 | Horse Carnival!                                                | 9am-4pm                   |
-| Mini horses kissing booth with Eleanor                         | {select times}            |
+| Mini horses kissing booth with Eleanor                         | {TODO select times}       |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
+
+Clildren can get up close to a real fire truck and talk with our very own Clifton firefighters.
 
 |                         |           |
 | :---------------------- | :-------: |
@@ -94,7 +93,7 @@ Recommended donation $10.
 
 Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendors sell bottled water and canned soft drinks.
 
-TO UPDATE for 2026
+TODO UPDATE for 2026
 
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
@@ -111,7 +110,7 @@ TO UPDATE for 2026
 
 ### Town Eateries
 
-TO UPDATE Menu Links for 2026
+TODO UPDATE Menu Links for 2026
 
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
@@ -124,6 +123,8 @@ TO UPDATE Menu Links for 2026
 | [The Wine Attic](https://www.thewineattic.com/) | __Outside__ - Casual wine tasting with a variety of four wines [V, GF]; __Inside Shop__ - Elevated wine tasting experience featuring four bigger & bolder wines [V, GF] | 11am-6pm |
 
 ### Historical Activities
+
+TODO I think Primitive Baptist Church will not be open.
 
 |                           |                          |           |
 | :------------------------ | :----------------------- | :-------: |
