@@ -12,7 +12,7 @@
 | Last Parking Shuttle            | 5:30pm  |
 | Roads closed to through traffic | 8am-6pm |
 
-### Arts & Crafts and Outdoor Marketplace
+### Arts & Crafts, Vintage & Antiques, and Outdoor Marketplace
 
 [Vendor List](vendors.html)
 
@@ -20,12 +20,7 @@
 | :---------------------------------------- | :-----: |
 | Main Street & Trummer’s Parking Lot       | 9am-5pm |
 | Chapel Road, Clifton Shoppes’ Parking Lot | 9am-5pm |
-
-### Vintage & Antiques
-
-|                                          |         |
-| :--------------------------------------- | :-----: |
-| Main St & Chapel Rd, Caboose Parking Lot | 9am-5pm |
+| Main St & Chapel Rd, Caboose Parking Lot  | 9am-5pm |
 
 ### Live Music - Beer & Wine Garden
 
@@ -62,14 +57,14 @@ No pets!
 
 Free activities, shows, and performances at the town park
 
-|                                    |                 |
-| :--------------------------------- | :-------------: |
-| T-Ball and Games                   | 9am - 4pm       |
-| Face Painting                      | 9:30am - 4pm    |
-| Juggling Uncle Sam Stilt Walker    | 11am - 3pm      |
-| Comedy & Circus Stunt Show         | 11am & 3pm      |
-| Roving Circus Stunt Man            | 1pm - 2pm       |
-| Rocknoceros Show                   | 1pm - 3pm       |
+|                                    |               |
+| :--------------------------------- | :-----------: |
+| T-Ball and Games                   | 9am-4pm       |
+| Face Painting                      | 9:30am-4pm    |
+| Juggling Uncle Sam Stilt Walker    | 11am-3pm      |
+| Comedy & Circus Stunt Show         | 11am & 3pm    |
+| Roving Circus Stunt Man            | 1pm-2pm       |
+| Rocknoceros Show                   | 1pm-3pm       |
 
 #### Mini Horse Carnival at the Clifton Barn North of the Railway
 
