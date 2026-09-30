@@ -68,14 +68,12 @@ Free activities, shows, and performances at the town park
 
 #### Mini Horse Carnival at the Clifton Barn North of the Railway
 
-Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed games, activities, trivia, and more at the Clifton Barn.
+Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed games, activities, trivia, and more at the Clifton Barn. Recommended $10 donation to benefit the Cloverleaf Equine Center.
 
-Recommended donation $10 to benefit the Cloverleaf Equine Center.
-
-|                                                                  |                   |
-| :--------------------------------------------------------------- | :---------------: |
-| Horse Carnival!                                                  | 9am-4pm           |
-| Mini horse kissing booth with Eleanor (30 minute sessions)       | 10am & 12pm & 2pm |
+|                                                                     |                   |
+| :------------------------------------------------------------------ | :---------------: |
+| Horse Carnival!                                                     | 9am-4pm           |
+| Mini horse kissing booth with Eleanor (three 30-minute appearances) | 10am, 12pm, & 2pm |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
@@ -111,7 +109,7 @@ TODO UPDATE Menu Links for 2026
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
 | [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Soft baked pretzels/croissants/muffins, coffee, hot cocoa, and juice; dill pickles; Grab-N-Go crêpes and sandwiches [V]; __Inside Restaurant__ - Full menu service including savory and sweet crêpes, savory sandwiches, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosas, bourbon, beer, wine, and more! [V, GF] | 8am-6pm |
-| [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day pub fare [menu](2025-menu-main_stree_pub.pdf) (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store [V, GF]  | 8am-11pm |
+| [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day pub fare [menu](2025-menu-main_street_pub.pdf) (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store [V, GF]  | 8am-11pm |
 | [Môtier](https://www.motierclifton.com/) | __Chapel Road__ - French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads, wine, and coffee ([menu](2025-menu-motier.pdf)) [V]  | 8am-5pm |
 | [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwiches [V, GF]  | 11am-8pm |
 | [Trattoria Villagio](https://trattoriavillagio.com/menu) | __Outside__ - Pizza by the slice (cheese and pepperoni) [V]; Street tacos (cheese, beef, chicken) [V]; __Inside Restaurant__ - Elegant Italian serving full menu inside [V, GF] | 9am-5pm, 11:30am-9pm (restaurant) |
