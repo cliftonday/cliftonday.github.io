@@ -72,10 +72,10 @@ Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed
 
 Recommended donation $10 to benefit the Cloverleaf Equine Center.
 
-|                                                                |                                       |
-| :------------------------------------------------------------- | :-----------------------------------: |
-| Horse Carnival!                                                | 9am-4pm                               |
-| Mini horses kissing booth with Eleanor                         | 10:00-10:30 & 12:00-12:30 & 2:00-2:30 |
+|                                                                  |                      |
+| :--------------------------------------------------------------- | :------------------: |
+| Horse Carnival!                                                  | 9am-4pm              |
+| Mini horse kissing booth with Eleanor (30 minute sessions)       | 10:00 & 12:00 & 2:00 |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
