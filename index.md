@@ -89,18 +89,16 @@ Clildren can get up close to a real fire truck and talk with our very own Clifto
 
 Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendors sell bottled water and canned soft drinks.
 
-TODO UPDATE for 2026
-
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
-| Baja Fresh | Chapel Road | Burritos, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas, and Bottled Water. [V]  | 9am-5pm |
+| Baja Fresh | Chapel Road | Burritos, Bowls, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas, and Bottled Water. [V]  | 9am-5pm |
 | Bella’s Café (Saj Bread) | Chapel Road | Saj Bread: Man’ousheh (Za’atar), Jibneb (Cheese), Mixed Za'atar & Jibneb, and Fatayer (Spinach & Feta); Kafta Wrap and Chicken Tawook Wrap; Hummus with Pita Bread; and Middle Eastern Pastries; Water, Sodas, and Juices. [V]  | 9am-5pm |
-| Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Fruit Preserves, Apple Cider, Coffee, Tea, Hot Chocolate, and Bottled Water. [V, GF]  | 9am-5pm |
-| Clifton Lions Club | by the Railway | Hamburgers, Cheeseburgers, Hot Dogs, Chips, Sodas, and Bottled Water | 9am-5pm |
-| Clifton Presbyterian Church | behind Trummer’s | Crab Cake dinner, Beef Brisket dinner, and Home-Baked Sweets - dinners served with slaw and brioche bun | 11am-4pm |
-| Colonial Kettle Corn | by the Caboose | On-site Popped Kettle Corn, Various Cheese Flavored Corn, Caramel Corn; Movie Theater Butter Corn; Bottled Water. [V]  | 9am-5pm |
+| Boy Scout Troop 1104 | at First Baptist Church | Lemon Peppermint Sticks, Baked Goods, Cotton Candy, Apple Cider, Coffee, Tea, Hot Chocolate, and Bottled Water. [V, GF]  | 9am-5pm |
+| Clifton Lions Club | by the Railway | Hot Dogs, Chips, Sodas, and Bottled Water  | 9am-5pm |
+| Clifton Presbyterian Church | behind Trummer’s | Crab Cake sandwiches, Beef Brisket sandwiches, Corn dogs, Lemonade, Iced Tea, and Arnold Palmers  | 11am-4pm |
+| Colonial Kettle Corn | by the Caboose | On-site Popped Kettle Corn, Various Cheese Flavored Corn, Caramel Corn; Jalapeno Cheddar Corn; Bottled Water. [V]  | 9am-5pm |
 | Cooking Thyme | N. Main Street | Funnel Cakes and Fresh Squeezed Lemonade. [V]  | 9am until sold out |
-| Kona Ice | Clifton Town Park (children’s playground) | Tropical Flavored Shaved Ice. [V, GF]  | 9am-4pm |
+| Kona Ice | Clifton Town Park (children’s playground) | Tropical Flavored Shaved Ice and Blended Fruit Smoothies. [V, GF]  | 9am-4pm |
 | Pupusa Tent | Chapel Road | Revuelta (pork) Pupusa, Cheese Pupusa, Jarritos, and Soft Drinks. [V]  | 9am-5pm |
 | Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, Baked Goods, Middle Eastern Pastries, Bottled Water, and Soda. [V, GF]  | 7am-5pm |
 
@@ -110,12 +108,12 @@ TODO UPDATE Menu Links for 2026
 
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
-| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Grab-N-Go crêpes, sandwiches, soft baked pretzels, croissants, muffins, coffee, hot cocoa, and juice [V]; __Inside Restaurant__ - Weekend [brunch](https://www.cliftoncafe.com/assets/menus/Jun2025.pdf) including savory and sweet crêpes, sandwiches, breakfast, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosas, bourbon, beer, wine, and more! [V, GF] | 8am-6pm |
-| [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day Pub fare [menu](2025-menu-main_stree_pub.pdf) (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store [V, GF]  | 8am-11pm |
+| [Clifton Cafe](https://www.cliftoncafe.com/) | __Outside__ - Soft baked pretzels/croissants/muffins, coffee, hot cocoa, and juice; dill pickles; Grab-N-Go crêpes and sandwiches [V]; __Inside Restaurant__ - Full menu service including savory and sweet crêpes, savory sandwiches, pancakes, waffles, French toast, salads, espresso drinks, smoothies, mimosas, bourbon, beer, wine, and more! [V, GF] | 8am-6pm |
+| [Main Street Pub](https://www.themainstreetpub.net/) | __Inside Restaurant__ - Special Clifton Day pub fare [menu](2025-menu-main_stree_pub.pdf) (wings, chili, gumbo, nachos, burgers, sandwiches, salads) & general store [V, GF]  | 8am-11pm |
 | [Môtier](https://www.motierclifton.com/) | __Chapel Road__ - French pastries & cuisine, including croissants, quiche, omelets, Croques Monsieur & Madame, savory sandwiches, salads, wine, and coffee ([menu](2025-menu-motier.pdf)) [V]  | 8am-5pm |
 | [Peterson’s Ice Cream Depot](https://www.petersonsdepot.net/) | Ice cream and sorbet products: cones and cups, shakes, malts, sundaes, ice cream cookie sandwiches [V, GF]  | 11am-8pm |
-| [Trattoria Villagio](https://trattoriavillagio.com/menu) | __Outside__ - Pizza by the Slice (cheese and Pepperoni) [V]; Street Tacos (cheese, beef, chicken) [V]; __Inside Restaurant__ - Elegant Italian serving full menu inside [V, GF] | 9am-5pm, 11:30am-9pm (restaurant) |
-| [Trummer’s](https://www.trummersrestaurant.com/) | __Outside__ - Freshly Fried Beignets [V]; __Inside Restaurant__ - Schnitzel, Burgers, Salads, and Pasta [V, GF]| 11am-5pm |
+| [Trattoria Villagio](https://trattoriavillagio.com/menu) | __Outside__ - Pizza by the slice (cheese and pepperoni) [V]; Street tacos (cheese, beef, chicken) [V]; __Inside Restaurant__ - Elegant Italian serving full menu inside [V, GF] | 9am-5pm, 11:30am-9pm (restaurant) |
+| [Trummer’s](https://www.trummersrestaurant.com/) | __Outside__ - Freshly fried beignets [V]; __Inside Restaurant__ - Schnitzel, burgers, salads, and pasta [V, GF]| 11am-5pm |
 | [The Wine Attic](https://www.thewineattic.com/) | __Outside__ - Casual wine tasting with a variety of four wines [V, GF]; __Inside Shop__ - Elevated wine tasting experience featuring four bigger & bolder wines [V, GF] | 11am-6pm |
 
 ### Historical Activities
