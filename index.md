@@ -47,7 +47,7 @@ Main St & Chapel Rd
 
 |                                 |                |
 | :------------------------------ | :------------: |
-| Sarah Swanner                   | 11:00am-2:00pm |
+| Sarah Swanner                   | 11am-2pm |
 
 ### KidFest
 
@@ -72,10 +72,10 @@ Family-friendly horse carnival with mini horses Teddy and Eleanor.  Horse-themed
 
 Recommended donation $10 to benefit the Cloverleaf Equine Center.
 
-|                                                                  |                      |
-| :--------------------------------------------------------------- | :------------------: |
-| Horse Carnival!                                                  | 9am-4pm              |
-| Mini horse kissing booth with Eleanor (30 minute sessions)       | 10:00 & 12:00 & 2:00 |
+|                                                                  |                   |
+| :--------------------------------------------------------------- | :---------------: |
+| Horse Carnival!                                                  | 9am-4pm           |
+| Mini horse kissing booth with Eleanor (30 minute sessions)       | 10am & 12pm & 2pm |
 
 #### Children’s Firetruck Tours, Clifton Fire Station 416, Chapel Rd
 
