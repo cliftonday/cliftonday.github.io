@@ -87,8 +87,6 @@ Clildren can get up close to a real fire truck and talk with our very own Clifto
 
 Locations with Vegetarian [V] and Gluten-Free [GF] options are noted. All vendors sell bottled water and canned soft drinks.
 
-TODO - Add kids food option in park
-
 | Who                         | Where                     | What                                         | When              |
 | :-------------------------- | :---------                | :------------------------------------------- | :---------------: |
 | Baja Fresh | Chapel Road | Burritos, Bowls, Quesadillas, Fajitas, Chips and Salsa, Guacamole, Sodas, and Bottled Water. [V]  | 9am-5pm |
@@ -103,8 +101,6 @@ TODO - Add kids food option in park
 | Zuzu Cuisine | Chapel Road | Shawarma: Chicken or Lamb; Gyro, Falafel, Hummus with Pita Bread; Salads, Baked Goods, Middle Eastern Pastries, Bottled Water, and Soda. [V, GF]  | 7am-5pm |
 
 ### Town Eateries
-
-TODO UPDATE Menu Links for 2026
 
 | Where                    | What                                      | When      |
 | :----------------------- | :---------------------------------------- | :-------: |
@@ -155,22 +151,20 @@ __Last Trains: To Burke: 4:44pm, To Manassas: 5:33pm__
 
 ### Sponsors
 
-TODO UPDATE
-
-  - [Cascades Dental of Centreville](https://cascadesdental.com/)
+  - [Fairfax County 250](https://www.fairfaxcounty.gov/parks/topics/fairfax250)
   - [Golden Rule Builders (GRB)](https://www.goldenrulebuilders.com/)
+  - [Cascades Dental of Centreville](https://cascadesdental.com/)
+  - [CertaPro Painters](https://certapro.com/)
   - [Helmer For Virginia](https://danhelmer.com/)
-  - [Animal Clinic of Clifton](https://animalclinicofclifton.com/)
+  - [Singh Vision](https://singhvision.com/)
   - [Ourisman Fairfax Toyota](http://ourismanfairfaxtoyota.com/)
+  - [Clifton Exteriors](https://www.cliftonexteriors.com/)
+  - [Horizon Building](https://www.horizonbuildingcorp.com/)
+  - [Buzz Contracting](https://buzzcontractingllc.com/)
+  - [United Bank](https://locations.bankwithunited.com/va/clifton/5766-union-mill-road-3743.html)
   - [Signature Aesthetics](https://www.signatureaestheticsva.com/)
   - [CARRIE&CO Real Estate Group](https://www.carriesoldme.com/)
-  - [Cooper Ginsburg Gray PLLC](https://www.cgglawyers.com/)
   - [Virginia Railway Express (VRE)](https://vre.org/)
-  - [The Dog Stop](https://thedogstop.com/)
-  - [The Caza Group at Keller Williams](https://www.thecazagroup.com/)
-  - [Norfolk Southern](https://www.norfolksouthern.com/)
-  - [United Bank](https://locations.bankwithunited.com/va/clifton/5766-union-mill-road-3743.html)
-  - [Main Street Pub](https://www.themainstreetpub.net/)
 
 ### Share Guide
 

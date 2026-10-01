@@ -1,6 +1,6 @@
 # Clifton Day Times Guide Site Generator
 
-## Steps to updated site
+## Steps to update site
 
 ### Edit index.md
 
